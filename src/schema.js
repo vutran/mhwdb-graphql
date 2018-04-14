@@ -11,7 +11,7 @@ const Monster = require('./types/Monster');
 const Query = new GraphQLObjectType({
   name: 'Query',
   fields: {
-    monster: {
+    allMonsters: {
       description: 'Fetch monsters',
       type: new GraphQLList(Monster),
       args: {
