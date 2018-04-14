@@ -1,0 +1,5277 @@
+{
+    "Aptonoth": {
+        "hitzones": {
+            "Head": {
+                "cut": 80,
+                "impact": 80,
+                "shot": 100,
+                "fire": 40,
+                "water": 20,
+                "thunder": 30,
+                "ice": 20,
+                "dragon": 15,
+                "ko": 100
+            },
+            "Body": {
+                "cut": 70,
+                "impact": 70,
+                "shot": 100,
+                "fire": 40,
+                "water": 20,
+                "thunder": 30,
+                "ice": 20,
+                "dragon": 15,
+                "ko": 0
+            }
+        },
+        "break_and_extract": {}
+    },
+    "Jagras": {
+        "hitzones": {
+            "Head": {
+                "cut": 90,
+                "impact": 90,
+                "shot": 90,
+                "fire": 50,
+                "water": 5,
+                "thunder": 30,
+                "ice": 20,
+                "dragon": 10,
+                "ko": 100
+            },
+            "Body": {
+                "cut": 80,
+                "impact": 80,
+                "shot": 80,
+                "fire": 40,
+                "water": 0,
+                "thunder": 20,
+                "ice": 10,
+                "dragon": 5,
+                "ko": 0
+            }
+        },
+        "break_and_extract": {}
+    },
+    "Mernos": {
+        "hitzones": {
+            "Head": {
+                "cut": 90,
+                "impact": 90,
+                "shot": 80,
+                "fire": 25,
+                "water": 25,
+                "thunder": 25,
+                "ice": 25,
+                "dragon": 10,
+                "ko": 100
+            },
+            "Body": {
+                "cut": 90,
+                "impact": 90,
+                "shot": 80,
+                "fire": 25,
+                "water": 25,
+                "thunder": 25,
+                "ice": 25,
+                "dragon": 10,
+                "ko": 0
+            }
+        },
+        "break_and_extract": {}
+    },
+    "Vespoid": {
+        "hitzones": {
+            "Body": {
+                "cut": 85,
+                "impact": 85,
+                "shot": 85,
+                "fire": 100,
+                "water": 50,
+                "thunder": 100,
+                "ice": 50,
+                "dragon": 0,
+                "ko": 100
+            }
+        },
+        "break_and_extract": {}
+    },
+    "Mosswine": {
+        "hitzones": {
+            "Body": {
+                "cut": 90,
+                "impact": 90,
+                "shot": 85,
+                "fire": 100,
+                "water": 100,
+                "thunder": 100,
+                "ice": 100,
+                "dragon": 0,
+                "ko": 100
+            }
+        },
+        "break_and_extract": {}
+    },
+    "Apceros": {
+        "hitzones": {
+            "Head": {
+                "cut": 60,
+                "impact": 60,
+                "shot": 60,
+                "fire": 40,
+                "water": 25,
+                "thunder": 40,
+                "ice": 25,
+                "dragon": 10,
+                "ko": 100
+            },
+            "Body": {
+                "cut": 60,
+                "impact": 60,
+                "shot": 60,
+                "fire": 40,
+                "water": 25,
+                "thunder": 40,
+                "ice": 25,
+                "dragon": 10,
+                "ko": 0
+            }
+        },
+        "break_and_extract": {}
+    },
+    "Kestodon": {
+        "hitzones": {
+            "Head": {
+                "cut": 35,
+                "impact": 35,
+                "shot": 35,
+                "fire": 25,
+                "water": 40,
+                "thunder": 25,
+                "ice": 40,
+                "dragon": 10,
+                "ko": 100
+            },
+            "Body": {
+                "cut": 80,
+                "impact": 80,
+                "shot": 80,
+                "fire": 25,
+                "water": 40,
+                "thunder": 25,
+                "ice": 40,
+                "dragon": 10,
+                "ko": 0
+            }
+        },
+        "break_and_extract": {}
+    },
+    "Noios": {
+        "hitzones": {
+            "Head": {
+                "cut": 90,
+                "impact": 90,
+                "shot": 80,
+                "fire": 10,
+                "water": 25,
+                "thunder": 25,
+                "ice": 25,
+                "dragon": 10,
+                "ko": 100
+            },
+            "Body": {
+                "cut": 90,
+                "impact": 90,
+                "shot": 80,
+                "fire": 10,
+                "water": 25,
+                "thunder": 25,
+                "ice": 25,
+                "dragon": 10,
+                "ko": 0
+            }
+        },
+        "break_and_extract": {}
+    },
+    "Gajau": {
+        "hitzones": {
+            "Head": {
+                "cut": 80,
+                "impact": 80,
+                "shot": 80,
+                "fire": 40,
+                "water": 10,
+                "thunder": 40,
+                "ice": 25,
+                "dragon": 10,
+                "ko": 100
+            },
+            "Body": {
+                "cut": 70,
+                "impact": 70,
+                "shot": 70,
+                "fire": 40,
+                "water": 10,
+                "thunder": 40,
+                "ice": 25,
+                "dragon": 10,
+                "ko": 0
+            }
+        },
+        "break_and_extract": {}
+    },
+    "Kelbi": {
+        "hitzones": {
+            "Horn": {
+                "cut": 85,
+                "impact": 85,
+                "shot": 80,
+                "fire": 80,
+                "water": 80,
+                "thunder": 80,
+                "ice": 80,
+                "dragon": 0,
+                "ko": 100
+            },
+            "Head / Body": {
+                "cut": 85,
+                "impact": 85,
+                "shot": 80,
+                "fire": 80,
+                "water": 80,
+                "thunder": 80,
+                "ice": 80,
+                "dragon": 0,
+                "ko": 100
+            }
+        },
+        "break_and_extract": {}
+    },
+    "Raphinos": {
+        "hitzones": {
+            "Head": {
+                "cut": 90,
+                "impact": 90,
+                "shot": 90,
+                "fire": 50,
+                "water": 50,
+                "thunder": 100,
+                "ice": 50,
+                "dragon": 10,
+                "ko": 100
+            },
+            "Body": {
+                "cut": 90,
+                "impact": 90,
+                "shot": 90,
+                "fire": 50,
+                "water": 50,
+                "thunder": 100,
+                "ice": 50,
+                "dragon": 10,
+                "ko": 0
+            }
+        },
+        "break_and_extract": {}
+    },
+    "Shamos": {
+        "hitzones": {
+            "Head": {
+                "cut": 80,
+                "impact": 80,
+                "shot": 80,
+                "fire": 40,
+                "water": 25,
+                "thunder": 40,
+                "ice": 25,
+                "dragon": 10,
+                "ko": 100
+            },
+            "Body": {
+                "cut": 70,
+                "impact": 70,
+                "shot": 70,
+                "fire": 40,
+                "water": 25,
+                "thunder": 40,
+                "ice": 25,
+                "dragon": 10,
+                "ko": 0
+            }
+        },
+        "break_and_extract": {}
+    },
+    "Girros": {
+        "hitzones": {
+            "Head": {
+                "cut": 90,
+                "impact": 90,
+                "shot": 90,
+                "fire": 50,
+                "water": 5,
+                "thunder": 30,
+                "ice": 20,
+                "dragon": 10,
+                "ko": 100
+            },
+            "Body": {
+                "cut": 80,
+                "impact": 80,
+                "shot": 80,
+                "fire": 40,
+                "water": 0,
+                "thunder": 20,
+                "ice": 10,
+                "dragon": 5,
+                "ko": 0
+            }
+        },
+        "break_and_extract": {}
+    },
+    "Hornetaur": {
+        "hitzones": {
+            "Body": {
+                "cut": 80,
+                "impact": 100,
+                "shot": 80,
+                "fire": 100,
+                "water": 20,
+                "thunder": 60,
+                "ice": 100,
+                "dragon": 10,
+                "ko": 100
+            }
+        },
+        "break_and_extract": {}
+    },
+    "Gastodon": {
+        "hitzones": {
+            "Head": {
+                "cut": 35,
+                "impact": 35,
+                "shot": 35,
+                "fire": 5,
+                "water": 15,
+                "thunder": 25,
+                "ice": 15,
+                "dragon": 5,
+                "ko": 100
+            },
+            "Body": {
+                "cut": 65,
+                "impact": 65,
+                "shot": 65,
+                "fire": 10,
+                "water": 25,
+                "thunder": 40,
+                "ice": 25,
+                "dragon": 10,
+                "ko": 0
+            }
+        },
+        "break_and_extract": {}
+    },
+    "Barnos": {
+        "hitzones": {
+            "Head": {
+                "cut": 45,
+                "impact": 45,
+                "shot": 45,
+                "fire": 20,
+                "water": 0,
+                "thunder": 10,
+                "ice": 10,
+                "dragon": 50,
+                "ko": 100
+            },
+            "Body": {
+                "cut": 45,
+                "impact": 45,
+                "shot": 45,
+                "fire": 20,
+                "water": 0,
+                "thunder": 10,
+                "ice": 10,
+                "dragon": 50,
+                "ko": 0
+            }
+        },
+        "break_and_extract": {}
+    },
+    "Great Jagras": {
+        "hitzones": {
+            "Head": {
+                "cut": 80,
+                "impact": 85,
+                "shot": 75,
+                "fire": 30,
+                "water": 0,
+                "thunder": 20,
+                "ice": 15,
+                "dragon": 10,
+                "ko": 100
+            },
+            "Neck": {
+                "cut": 65,
+                "impact": 70,
+                "shot": 60,
+                "fire": 20,
+                "water": 0,
+                "thunder": 10,
+                "ice": 5,
+                "dragon": 5,
+                "ko": 100
+            },
+            "Body": {
+                "cut": 50,
+                "impact": 45,
+                "shot": 40,
+                "fire": 20,
+                "water": 0,
+                "thunder": 10,
+                "ice": 5,
+                "dragon": 0,
+                "ko": 0
+            },
+            "Stomach (Inflated)": {
+                "cut": 90,
+                "impact": 95,
+                "shot": 85,
+                "fire": 30,
+                "water": 0,
+                "thunder": 20,
+                "ice": 15,
+                "dragon": 10,
+                "ko": 0
+            },
+            "Back": {
+                "cut": 45,
+                "impact": 40,
+                "shot": 35,
+                "fire": 15,
+                "water": 0,
+                "thunder": 5,
+                "ice": 5,
+                "dragon": 0,
+                "ko": 0
+            },
+            "Left Foreleg": {
+                "cut": 65,
+                "impact": 60,
+                "shot": 55,
+                "fire": 25,
+                "water": 0,
+                "thunder": 15,
+                "ice": 10,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Right Foreleg": {
+                "cut": 65,
+                "impact": 60,
+                "shot": 55,
+                "fire": 25,
+                "water": 0,
+                "thunder": 15,
+                "ice": 10,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Left Hindleg": {
+                "cut": 45,
+                "impact": 40,
+                "shot": 35,
+                "fire": 15,
+                "water": 0,
+                "thunder": 5,
+                "ice": 0,
+                "dragon": 0,
+                "ko": 0
+            },
+            "Right Hindleg": {
+                "cut": 45,
+                "impact": 40,
+                "shot": 35,
+                "fire": 15,
+                "water": 0,
+                "thunder": 5,
+                "ice": 0,
+                "dragon": 0,
+                "ko": 0
+            },
+            "Tail": {
+                "cut": 45,
+                "impact": 45,
+                "shot": 40,
+                "fire": 15,
+                "water": 0,
+                "thunder": 5,
+                "ice": 0,
+                "dragon": 0,
+                "ko": 0
+            }
+        },
+        "break_and_extract": {
+            "Head": {
+                "Flinch": 150,
+                "Wound": 300,
+                "cut": null,
+                "extract": "red"
+            },
+            "Body": {
+                "Flinch": 300,
+                "Wound": null,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Body (Inflated)": {
+                "Flinch": 120,
+                "Wound": 360,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Forelegs": {
+                "Flinch": 210,
+                "Wound": 210,
+                "cut": null,
+                "extract": "white"
+            },
+            "Legs": {
+                "Flinch": 240,
+                "Wound": null,
+                "cut": null,
+                "extract": "white"
+            },
+            "Tail": {
+                "Flinch": 270,
+                "Wound": null,
+                "cut": null,
+                "extract": "green"
+            }
+        }
+    },
+    "Kulu-Ya-Ku": {
+        "hitzones": {
+            "Head": {
+                "cut": 85,
+                "impact": 85,
+                "shot": 75,
+                "fire": 15,
+                "water": 20,
+                "thunder": 15,
+                "ice": 15,
+                "dragon": 15,
+                "ko": 100
+            },
+            "Forearms": {
+                "cut": 65,
+                "impact": 70,
+                "shot": 55,
+                "fire": 15,
+                "water": 20,
+                "thunder": 15,
+                "ice": 15,
+                "dragon": 15,
+                "ko": 0
+            },
+            "Body": {
+                "cut": 45,
+                "impact": 45,
+                "shot": 40,
+                "fire": 15,
+                "water": 2,
+                "thunder": 15,
+                "ice": 15,
+                "dragon": 15,
+                "ko": 0
+            },
+            "Tail": {
+                "cut": 55,
+                "impact": 50,
+                "shot": 35,
+                "fire": 15,
+                "water": 20,
+                "thunder": 15,
+                "ice": 15,
+                "dragon": 15,
+                "ko": 0
+            },
+            "Rock": {
+                "cut": 5,
+                "impact": 5,
+                "shot": 5,
+                "fire": 5,
+                "water": 20,
+                "thunder": 5,
+                "ice": 5,
+                "dragon": 5,
+                "ko": 0
+            }
+        },
+        "break_and_extract": {
+            "Head": {
+                "Flinch": 180,
+                "Wound": 180,
+                "cut": null,
+                "extract": "red"
+            },
+            "Forearms": {
+                "Flinch": 160,
+                "Wound": 160,
+                "cut": null,
+                "extract": "red"
+            },
+            "Body": {
+                "Flinch": 200,
+                "Wound": null,
+                "cut": null,
+                "extract": "white"
+            },
+            "Tail": {
+                "Flinch": 160,
+                "Wound": null,
+                "cut": null,
+                "extract": "red"
+            }
+        }
+    },
+    "Pukei-Pukei": {
+        "hitzones": {
+            "Head": {
+                "cut": 75,
+                "impact": 80,
+                "shot": 70,
+                "fire": 15,
+                "water": 0,
+                "thunder": 30,
+                "ice": 20,
+                "dragon": 10,
+                "ko": 100
+            },
+            "Tongue": {
+                "cut": 80,
+                "impact": 80,
+                "shot": 75,
+                "fire": 15,
+                "water": 0,
+                "thunder": 25,
+                "ice": 15,
+                "dragon": 10,
+                "ko": 100
+            },
+            "Neck": {
+                "cut": 40,
+                "impact": 35,
+                "shot": 30,
+                "fire": 5,
+                "water": 0,
+                "thunder": 20,
+                "ice": 10,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Body": {
+                "cut": 35,
+                "impact": 35,
+                "shot": 30,
+                "fire": 0,
+                "water": 5,
+                "thunder": 5,
+                "ice": 15,
+                "dragon": 0,
+                "ko": 0
+            },
+            "Left Wing": {
+                "cut": 50,
+                "impact": 45,
+                "shot": 40,
+                "fire": 10,
+                "water": 0,
+                "thunder": 25,
+                "ice": 15,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Right Wing": {
+                "cut": 50,
+                "impact": 45,
+                "shot": 40,
+                "fire": 10,
+                "water": 0,
+                "thunder": 25,
+                "ice": 15,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Left Leg": {
+                "cut": 45,
+                "impact": 45,
+                "shot": 40,
+                "fire": 0,
+                "water": 0,
+                "thunder": 15,
+                "ice": 5,
+                "dragon": 0,
+                "ko": 0
+            },
+            "Right Leg": {
+                "cut": 45,
+                "impact": 45,
+                "shot": 40,
+                "fire": 0,
+                "water": 0,
+                "thunder": 15,
+                "ice": 5,
+                "dragon": 0,
+                "ko": 0
+            },
+            "Tail": {
+                "cut": 55,
+                "impact": 50,
+                "shot": 45,
+                "fire": 10,
+                "water": 0,
+                "thunder": 25,
+                "ice": 15,
+                "dragon": 5,
+                "ko": 0
+            }
+        },
+        "break_and_extract": {
+            "Head": {
+                "Flinch": 180,
+                "Wound": 360,
+                "cut": null,
+                "extract": "red"
+            },
+            "Body": {
+                "Flinch": 300,
+                "Wound": 300,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Left Wing": {
+                "Flinch": 210,
+                "Wound": 210,
+                "cut": null,
+                "extract": "white"
+            },
+            "Right Wing": {
+                "Flinch": 210,
+                "Wound": 210,
+                "cut": null,
+                "extract": "white"
+            },
+            "Left Leg": {
+                "Flinch": 240,
+                "Wound": null,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Right Leg": {
+                "Flinch": 240,
+                "Wound": null,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Tail": {
+                "Flinch": 220,
+                "Wound": null,
+                "cut": 280,
+                "extract": "green"
+            }
+        }
+    },
+    "Barroth": {
+        "hitzones": {
+            "Head": {
+                "cut": 22,
+                "impact": 25,
+                "shot": 10,
+                "fire": 20,
+                "water": 0,
+                "thunder": 0,
+                "ice": 15,
+                "dragon": 10,
+                "ko": 100
+            },
+            "Head (Mud)": {
+                "cut": 20,
+                "impact": 24,
+                "shot": 9,
+                "fire": 0,
+                "water": 80,
+                "thunder": 0,
+                "ice": 15,
+                "dragon": 10,
+                "ko": 100
+            },
+            "Body": {
+                "cut": 46,
+                "impact": 46,
+                "shot": 50,
+                "fire": 20,
+                "water": 0,
+                "thunder": 0,
+                "ice": 10,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Body (Mud)": {
+                "cut": 24,
+                "impact": 24,
+                "shot": 20,
+                "fire": 0,
+                "water": 80,
+                "thunder": 0,
+                "ice": 15,
+                "dragon": 10,
+                "ko": 0
+            },
+            "Forearms": {
+                "cut": 80,
+                "impact": 85,
+                "shot": 75,
+                "fire": 30,
+                "water": 0,
+                "thunder": 0,
+                "ice": 10,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Forearms (Mud)": {
+                "cut": 35,
+                "impact": 38,
+                "shot": 30,
+                "fire": 0,
+                "water": 80,
+                "thunder": 0,
+                "ice": 15,
+                "dragon": 10,
+                "ko": 0
+            },
+            "Left Hindleg": {
+                "cut": 40,
+                "impact": 35,
+                "shot": 25,
+                "fire": 20,
+                "water": 0,
+                "thunder": 0,
+                "ice": 10,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Left Hindleg (Mud)": {
+                "cut": 24,
+                "impact": 24,
+                "shot": 20,
+                "fire": 0,
+                "water": 80,
+                "thunder": 0,
+                "ice": 15,
+                "dragon": 10,
+                "ko": 0
+            },
+            "Right Hindleg": {
+                "cut": 40,
+                "impact": 35,
+                "shot": 25,
+                "fire": 20,
+                "water": 0,
+                "thunder": 0,
+                "ice": 10,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Right Hindleg (Mud)": {
+                "cut": 24,
+                "impact": 24,
+                "shot": 20,
+                "fire": 0,
+                "water": 80,
+                "thunder": 0,
+                "ice": 15,
+                "dragon": 10,
+                "ko": 0
+            },
+            "Tail": {
+                "cut": 55,
+                "impact": 50,
+                "shot": 40,
+                "fire": 25,
+                "water": 0,
+                "thunder": 0,
+                "ice": 15,
+                "dragon": 10,
+                "ko": 0
+            },
+            "Tail (Mud)": {
+                "cut": 25,
+                "impact": 25,
+                "shot": 22,
+                "fire": 0,
+                "water": 80,
+                "thunder": 0,
+                "ice": 15,
+                "dragon": 10,
+                "ko": 0
+            }
+        },
+        "break_and_extract": {
+            "Head": {
+                "Flinch": 150,
+                "Wound": null,
+                "cut": 200,
+                "extract": "red"
+            },
+            "Head (Mud)": {
+                "Flinch": 25,
+                "Wound": 25,
+                "cut": null,
+                "extract": "red"
+            },
+            "Body": {
+                "Flinch": 200,
+                "Wound": null,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Body (Mud)": {
+                "Flinch": 25,
+                "Wound": 25,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Forearms": {
+                "Flinch": 180,
+                "Wound": 180,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Forearms (Mud)": {
+                "Flinch": 25,
+                "Wound": 25,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Left Leg": {
+                "Flinch": 120,
+                "Wound": 120,
+                "cut": null,
+                "extract": "white"
+            },
+            "Left Leg (Mud)": {
+                "Flinch": 25,
+                "Wound": 25,
+                "cut": null,
+                "extract": "white"
+            },
+            "Right Leg": {
+                "Flinch": 120,
+                "Wound": 120,
+                "cut": null,
+                "extract": "white"
+            },
+            "Right Leg (Mud)": {
+                "Flinch": 25,
+                "Wound": 25,
+                "cut": null,
+                "extract": "white"
+            },
+            "Tail": {
+                "Flinch": 200,
+                "Wound": null,
+                "cut": 450,
+                "extract": "green"
+            },
+            "Tail (Mud)": {
+                "Flinch": 25,
+                "Wound": 25,
+                "cut": null,
+                "extract": "green"
+            }
+        }
+    },
+    "Jyuratodus": {
+        "hitzones": {
+            "Head": {
+                "cut": 63,
+                "impact": 63,
+                "shot": 63,
+                "fire": 5,
+                "water": 0,
+                "thunder": 10,
+                "ice": 5,
+                "dragon": 5,
+                "ko": 100
+            },
+            "Head (Mud)": {
+                "cut": 50,
+                "impact": 50,
+                "shot": 40,
+                "fire": 0,
+                "water": 25,
+                "thunder": 0,
+                "ice": 5,
+                "dragon": 5,
+                "ko": 100
+            },
+            "Neck": {
+                "cut": 43,
+                "impact": 43,
+                "shot": 43,
+                "fire": 5,
+                "water": 0,
+                "thunder": 10,
+                "ice": 5,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Body": {
+                "cut": 35,
+                "impact": 35,
+                "shot": 35,
+                "fire": 10,
+                "water": 0,
+                "thunder": 25,
+                "ice": 5,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Body (Mud)": {
+                "cut": 30,
+                "impact": 30,
+                "shot": 25,
+                "fire": 0,
+                "water": 25,
+                "thunder": 0,
+                "ice": 5,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Back": {
+                "cut": 25,
+                "impact": 25,
+                "shot": 25,
+                "fire": 5,
+                "water": 0,
+                "thunder": 15,
+                "ice": 5,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Fin": {
+                "cut": 25,
+                "impact": 25,
+                "shot": 25,
+                "fire": 10,
+                "water": 0,
+                "thunder": 20,
+                "ice": 5,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Left Leg": {
+                "cut": 30,
+                "impact": 30,
+                "shot": 25,
+                "fire": 15,
+                "water": 0,
+                "thunder": 30,
+                "ice": 5,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Left Leg (Mud)": {
+                "cut": 35,
+                "impact": 35,
+                "shot": 30,
+                "fire": 0,
+                "water": 25,
+                "thunder": 0,
+                "ice": 5,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Right Leg": {
+                "cut": 30,
+                "impact": 30,
+                "shot": 25,
+                "fire": 15,
+                "water": 0,
+                "thunder": 30,
+                "ice": 5,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Right Leg (Mud)": {
+                "cut": 35,
+                "impact": 35,
+                "shot": 30,
+                "fire": 0,
+                "water": 25,
+                "thunder": 0,
+                "ice": 5,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Tail": {
+                "cut": 55,
+                "impact": 50,
+                "shot": 45,
+                "fire": 5,
+                "water": 0,
+                "thunder": 10,
+                "ice": 5,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Tail (Mud)": {
+                "cut": 50,
+                "impact": 50,
+                "shot": 40,
+                "fire": 0,
+                "water": 25,
+                "thunder": 0,
+                "ice": 5,
+                "dragon": 5,
+                "ko": 0
+            }
+        },
+        "break_and_extract": {
+            "Head": {
+                "Flinch": 100,
+                "Wound": 400,
+                "cut": null,
+                "extract": "red"
+            },
+            "Head (Mud)": {
+                "Flinch": 100,
+                "Wound": 100,
+                "cut": null,
+                "extract": "red"
+            },
+            "Body": {
+                "Flinch": 300,
+                "Wound": 300,
+                "cut": null,
+                "extract": "white"
+            },
+            "Body (Mud)": {
+                "Flinch": 100,
+                "Wound": 300,
+                "cut": null,
+                "extract": "white"
+            },
+            "Left Leg": {
+                "Flinch": 240,
+                "Wound": 480,
+                "cut": null,
+                "extract": "white"
+            },
+            "Left Leg (Mud)": {
+                "Flinch": 100,
+                "Wound": 200,
+                "cut": null,
+                "extract": "white"
+            },
+            "Right Leg": {
+                "Flinch": 240,
+                "Wound": 480,
+                "cut": null,
+                "extract": "white"
+            },
+            "Right Leg (Mud)": {
+                "Flinch": 100,
+                "Wound": 200,
+                "cut": null,
+                "extract": "white"
+            },
+            "Tail": {
+                "Flinch": 100,
+                "Wound": 300,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Tail (Mud)": {
+                "Flinch": 100,
+                "Wound": 100,
+                "cut": null,
+                "extract": "orange"
+            }
+        }
+    },
+    "Tobi-Kadachi": {
+        "hitzones": {
+            "Head": {
+                "cut": 60,
+                "impact": 60,
+                "shot": 50,
+                "fire": 10,
+                "water": 20,
+                "thunder": 0,
+                "ice": 10,
+                "dragon": 5,
+                "ko": 100
+            },
+            "Neck": {
+                "cut": 60,
+                "impact": 60,
+                "shot": 50,
+                "fire": 10,
+                "water": 20,
+                "thunder": 0,
+                "ice": 10,
+                "dragon": 5,
+                "ko": 50
+            },
+            "Body": {
+                "cut": 45,
+                "impact": 45,
+                "shot": 35,
+                "fire": 5,
+                "water": 15,
+                "thunder": 0,
+                "ice": 5,
+                "dragon": 0,
+                "ko": 0
+            },
+            "Back": {
+                "cut": 45,
+                "impact": 45,
+                "shot": 60,
+                "fire": 5,
+                "water": 15,
+                "thunder": 0,
+                "ice": 5,
+                "dragon": 0,
+                "ko": 0
+            },
+            "Left Foreleg": {
+                "cut": 35,
+                "impact": 35,
+                "shot": 15,
+                "fire": 5,
+                "water": 15,
+                "thunder": 0,
+                "ice": 5,
+                "dragon": 0,
+                "ko": 0
+            },
+            "Right Foreleg": {
+                "cut": 35,
+                "impact": 35,
+                "shot": 15,
+                "fire": 5,
+                "water": 15,
+                "thunder": 0,
+                "ice": 5,
+                "dragon": 0,
+                "ko": 0
+            },
+            "Left Hindleg": {
+                "cut": 30,
+                "impact": 30,
+                "shot": 10,
+                "fire": 5,
+                "water": 15,
+                "thunder": 0,
+                "ice": 5,
+                "dragon": 0,
+                "ko": 0
+            },
+            "Right Hindleg": {
+                "cut": 30,
+                "impact": 30,
+                "shot": 10,
+                "fire": 5,
+                "water": 15,
+                "thunder": 0,
+                "ice": 5,
+                "dragon": 0,
+                "ko": 0
+            },
+            "Tail": {
+                "cut": 80,
+                "impact": 80,
+                "shot": 70,
+                "fire": 20,
+                "water": 30,
+                "thunder": 0,
+                "ice": 20,
+                "dragon": 15,
+                "ko": 0
+            }
+        },
+        "break_and_extract": {
+            "Head": {
+                "Flinch": 200,
+                "Wound": 400,
+                "cut": null,
+                "extract": "red"
+            },
+            "Body": {
+                "Flinch": 350,
+                "Wound": null,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Back": {
+                "Flinch": 100,
+                "Wound": 100,
+                "cut": null,
+                "extract": "red"
+            },
+            "Forelegs": {
+                "Flinch": 200,
+                "Wound": 200,
+                "cut": null,
+                "extract": "white"
+            },
+            "Hindlegs": {
+                "Flinch": 200,
+                "Wound": null,
+                "cut": null,
+                "extract": "white"
+            },
+            "Tail": {
+                "Flinch": 160,
+                "Wound": 640,
+                "cut": null,
+                "extract": "red"
+            }
+        }
+    },
+    "Anjanath": {
+        "hitzones": {
+            "Nose": {
+                "cut": 80,
+                "impact": 75,
+                "shot": 90,
+                "fire": 0,
+                "water": 30,
+                "thunder": 15,
+                "ice": 20,
+                "dragon": 10,
+                "ko": 100
+            },
+            "Head": {
+                "cut": 70,
+                "impact": 70,
+                "shot": 65,
+                "fire": 0,
+                "water": 25,
+                "thunder": 10,
+                "ice": 15,
+                "dragon": 5,
+                "ko": 100
+            },
+            "Neck": {
+                "cut": 30,
+                "impact": 30,
+                "shot": 10,
+                "fire": 0,
+                "water": 20,
+                "thunder": 5,
+                "ice": 15,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Wings": {
+                "cut": 80,
+                "impact": 45,
+                "shot": 90,
+                "fire": 0,
+                "water": 30,
+                "thunder": 15,
+                "ice": 20,
+                "dragon": 10,
+                "ko": 0
+            },
+            "Body": {
+                "cut": 30,
+                "impact": 30,
+                "shot": 45,
+                "fire": 0,
+                "water": 15,
+                "thunder": 5,
+                "ice": 10,
+                "dragon": 0,
+                "ko": 0
+            },
+            "Left Leg": {
+                "cut": 30,
+                "impact": 30,
+                "shot": 10,
+                "fire": 0,
+                "water": 15,
+                "thunder": 5,
+                "ice": 10,
+                "dragon": 0,
+                "ko": 0
+            },
+            "Left Leg (Wounded)": {
+                "cut": 45,
+                "impact": 45,
+                "shot": 50,
+                "fire": 0,
+                "water": 15,
+                "thunder": 5,
+                "ice": 10,
+                "dragon": 0,
+                "ko": 0
+            },
+            "Right Leg": {
+                "cut": 30,
+                "impact": 30,
+                "shot": 10,
+                "fire": 0,
+                "water": 15,
+                "thunder": 5,
+                "ice": 10,
+                "dragon": 0,
+                "ko": 0
+            },
+            "Right Leg (Wounded)": {
+                "cut": 45,
+                "impact": 45,
+                "shot": 50,
+                "fire": 0,
+                "water": 15,
+                "thunder": 5,
+                "ice": 10,
+                "dragon": 0,
+                "ko": 0
+            },
+            "Tail": {
+                "cut": 60,
+                "impact": 60,
+                "shot": 75,
+                "fire": 0,
+                "water": 20,
+                "thunder": 10,
+                "ice": 15,
+                "dragon": 5,
+                "ko": 0
+            }
+        },
+        "break_and_extract": {
+            "Head": {
+                "Flinch": 150,
+                "Wound": 750,
+                "cut": null,
+                "extract": "red"
+            },
+            "body_part": {
+                "Flinch": 350,
+                "Wound": null,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Left Leg": {
+                "Flinch": 80,
+                "Wound": 240,
+                "cut": null,
+                "extract": "white"
+            },
+            "Right Leg": {
+                "Flinch": 80,
+                "Wound": 240,
+                "cut": null,
+                "extract": "white"
+            },
+            "Tail": {
+                "Flinch": 100,
+                "Wound": null,
+                "cut": 350,
+                "extract": "orange"
+            }
+        }
+    },
+    "Rathian": {
+        "hitzones": {
+            "Head": {
+                "cut": 70,
+                "impact": 75,
+                "shot": 65,
+                "fire": 0,
+                "water": 15,
+                "thunder": 20,
+                "ice": 15,
+                "dragon": 30,
+                "ko": 100
+            },
+            "Neck": {
+                "cut": 40,
+                "impact": 45,
+                "shot": 35,
+                "fire": 0,
+                "water": 0,
+                "thunder": 5,
+                "ice": 0,
+                "dragon": 15,
+                "ko": 0
+            },
+            "Body": {
+                "cut": 35,
+                "impact": 30,
+                "shot": 25,
+                "fire": 0,
+                "water": 5,
+                "thunder": 10,
+                "ice": 5,
+                "dragon": 20,
+                "ko": 0
+            },
+            "Back": {
+                "cut": 35,
+                "impact": 30,
+                "shot": 25,
+                "fire": 0,
+                "water": 5,
+                "thunder": 10,
+                "ice": 5,
+                "dragon": 20,
+                "ko": 0
+            },
+            "Left Wing": {
+                "cut": 55,
+                "impact": 50,
+                "shot": 45,
+                "fire": 0,
+                "water": 10,
+                "thunder": 15,
+                "ice": 10,
+                "dragon": 25,
+                "ko": 0
+            },
+            "Right Wing": {
+                "cut": 55,
+                "impact": 50,
+                "shot": 45,
+                "fire": 0,
+                "water": 10,
+                "thunder": 15,
+                "ice": 10,
+                "dragon": 25,
+                "ko": 0
+            },
+            "Left Leg": {
+                "cut": 40,
+                "impact": 40,
+                "shot": 35,
+                "fire": 0,
+                "water": 0,
+                "thunder": 5,
+                "ice": 0,
+                "dragon": 15,
+                "ko": 0
+            },
+            "Right Leg": {
+                "cut": 40,
+                "impact": 40,
+                "shot": 35,
+                "fire": 0,
+                "water": 0,
+                "thunder": 5,
+                "ice": 0,
+                "dragon": 15,
+                "ko": 0
+            },
+            "Tail": {
+                "cut": 45,
+                "impact": 40,
+                "shot": 35,
+                "fire": 0,
+                "water": 5,
+                "thunder": 10,
+                "ice": 5,
+                "dragon": 20,
+                "ko": 0
+            }
+        },
+        "break_and_extract": {
+            "Head": {
+                "Flinch": 240,
+                "Wound": 480,
+                "cut": null,
+                "extract": "red"
+            },
+            "Body": {
+                "Flinch": 300,
+                "Wound": 300,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Left Wing": {
+                "Flinch": 180,
+                "Wound": 180,
+                "cut": null,
+                "extract": "white"
+            },
+            "Right Wing": {
+                "Flinch": 180,
+                "Wound": 180,
+                "cut": null,
+                "extract": "white"
+            },
+            "Left Leg": {
+                "Flinch": 210,
+                "Wound": null,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Right Leg": {
+                "Flinch": 210,
+                "Wound": null,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Tail": {
+                "Flinch": 200,
+                "Wound": null,
+                "cut": 300,
+                "extract": "green"
+            }
+        }
+    },
+    "Tzitzi-Ya-Ku": {
+        "hitzones": {
+            "Antennae": {
+                "cut": 75,
+                "impact": 65,
+                "shot": 70,
+                "fire": 15,
+                "water": 15,
+                "thunder": 20,
+                "ice": 20,
+                "dragon": 15,
+                "ko": 100
+            },
+            "Head": {
+                "cut": 65,
+                "impact": 55,
+                "shot": 55,
+                "fire": 15,
+                "water": 15,
+                "thunder": 20,
+                "ice": 20,
+                "dragon": 15,
+                "ko": 100
+            },
+            "Forearms": {
+                "cut": 45,
+                "impact": 60,
+                "shot": 35,
+                "fire": 15,
+                "water": 15,
+                "thunder": 20,
+                "ice": 20,
+                "dragon": 15,
+                "ko": 0
+            },
+            "Body": {
+                "cut": 45,
+                "impact": 60,
+                "shot": 35,
+                "fire": 15,
+                "water": 15,
+                "thunder": 20,
+                "ice": 20,
+                "dragon": 20,
+                "ko": 0
+            },
+            "Tail": {
+                "cut": 40,
+                "impact": 40,
+                "shot": 35,
+                "fire": 15,
+                "water": 15,
+                "thunder": 20,
+                "ice": 20,
+                "dragon": 15,
+                "ko": 0
+            }
+        },
+        "break_and_extract": {
+            "Antennae": {
+                "Flinch": 280,
+                "Wound": 560,
+                "cut": null,
+                "extract": "red"
+            },
+            "Head": {
+                "Flinch": 160,
+                "Wound": null,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Forearms": {
+                "Flinch": 100,
+                "Wound": null,
+                "cut": null,
+                "extract": "red"
+            },
+            "Body": {
+                "Flinch": 220,
+                "Wound": null,
+                "cut": null,
+                "extract": "white"
+            },
+            "Tail": {
+                "Flinch": 100,
+                "Wound": null,
+                "cut": null,
+                "extract": "orange"
+            }
+        }
+    },
+    "Paolumu": {
+        "hitzones": {
+            "Head": {
+                "cut": 55,
+                "impact": 55,
+                "shot": 45,
+                "fire": 25,
+                "water": 0,
+                "thunder": 15,
+                "ice": 10,
+                "dragon": 10,
+                "ko": 100
+            },
+            "Neck": {
+                "cut": 40,
+                "impact": 40,
+                "shot": 30,
+                "fire": 20,
+                "water": 0,
+                "thunder": 15,
+                "ice": 10,
+                "dragon": 10,
+                "ko": 100
+            },
+            "Neck Pouch": {
+                "cut": 75,
+                "impact": 75,
+                "shot": 60,
+                "fire": 25,
+                "water": 0,
+                "thunder": 15,
+                "ice": 10,
+                "dragon": 10,
+                "ko": 100
+            },
+            "Body": {
+                "cut": 46,
+                "impact": 46,
+                "shot": 42,
+                "fire": 15,
+                "water": 0,
+                "thunder": 10,
+                "ice": 5,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Left Leg": {
+                "cut": 40,
+                "impact": 35,
+                "shot": 25,
+                "fire": 15,
+                "water": 0,
+                "thunder": 10,
+                "ice": 5,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Right Leg": {
+                "cut": 40,
+                "impact": 35,
+                "shot": 25,
+                "fire": 15,
+                "water": 0,
+                "thunder": 10,
+                "ice": 5,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Left Wing": {
+                "cut": 35,
+                "impact": 35,
+                "shot": 45,
+                "fire": 15,
+                "water": 0,
+                "thunder": 10,
+                "ice": 5,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Right Wing": {
+                "cut": 35,
+                "impact": 35,
+                "shot": 45,
+                "fire": 15,
+                "water": 0,
+                "thunder": 10,
+                "ice": 5,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Tail": {
+                "cut": 25,
+                "impact": 25,
+                "shot": 15,
+                "fire": 20,
+                "water": 0,
+                "thunder": 15,
+                "ice": 10,
+                "dragon": 10,
+                "ko": 0
+            }
+        },
+        "break_and_extract": {
+            "Head": {
+                "Flinch": 180,
+                "Wound": null,
+                "cut": null,
+                "extract": "red"
+            },
+            "Neck Pouch": {
+                "Flinch": 300,
+                "Wound": 500,
+                "cut": null,
+                "extract": "red"
+            },
+            "Body": {
+                "Flinch": 300,
+                "Wound": 300,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Left Leg": {
+                "Flinch": 200,
+                "Wound": null,
+                "cut": null,
+                "extract": "white"
+            },
+            "Right Leg": {
+                "Flinch": 200,
+                "Wound": null,
+                "cut": null,
+                "extract": "white"
+            },
+            "Left Wing": {
+                "Flinch": 150,
+                "Wound": 150,
+                "cut": null,
+                "extract": "white"
+            },
+            "Right Wing": {
+                "Flinch": 150,
+                "Wound": 150,
+                "cut": null,
+                "extract": "white"
+            },
+            "Tail": {
+                "Flinch": 250,
+                "Wound": 250,
+                "cut": null,
+                "extract": "orange"
+            }
+        }
+    },
+    "Great Girros": {
+        "hitzones": {
+            "Head": {
+                "cut": 80,
+                "impact": 85,
+                "shot": 75,
+                "fire": 15,
+                "water": 30,
+                "thunder": 0,
+                "ice": 20,
+                "dragon": 10,
+                "ko": 100
+            },
+            "Neck": {
+                "cut": 40,
+                "impact": 45,
+                "shot": 35,
+                "fire": 5,
+                "water": 20,
+                "thunder": 0,
+                "ice": 10,
+                "dragon": 5,
+                "ko": 100
+            },
+            "Body": {
+                "cut": 35,
+                "impact": 35,
+                "shot": 30,
+                "fire": 0,
+                "water": 15,
+                "thunder": 0,
+                "ice": 5,
+                "dragon": 0,
+                "ko": 0
+            },
+            "Back": {
+                "cut": 35,
+                "impact": 35,
+                "shot": 30,
+                "fire": 0,
+                "water": 15,
+                "thunder": 0,
+                "ice": 5,
+                "dragon": 0,
+                "ko": 0
+            },
+            "Left Foreleg": {
+                "cut": 55,
+                "impact": 50,
+                "shot": 45,
+                "fire": 10,
+                "water": 25,
+                "thunder": 0,
+                "ice": 15,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Right Foreleg": {
+                "cut": 55,
+                "impact": 50,
+                "shot": 45,
+                "fire": 10,
+                "water": 25,
+                "thunder": 0,
+                "ice": 15,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Left Hindleg": {
+                "cut": 40,
+                "impact": 40,
+                "shot": 35,
+                "fire": 0,
+                "water": 15,
+                "thunder": 0,
+                "ice": 5,
+                "dragon": 0,
+                "ko": 0
+            },
+            "Right Hindleg": {
+                "cut": 40,
+                "impact": 40,
+                "shot": 35,
+                "fire": 0,
+                "water": 15,
+                "thunder": 0,
+                "ice": 5,
+                "dragon": 0,
+                "ko": 0
+            },
+            "Tail": {
+                "cut": 50,
+                "impact": 45,
+                "shot": 40,
+                "fire": 5,
+                "water": 20,
+                "thunder": 0,
+                "ice": 10,
+                "dragon": 5,
+                "ko": 0
+            }
+        },
+        "break_and_extract": {
+            "Head": {
+                "Flinch": 210,
+                "Wound": 420,
+                "cut": null,
+                "extract": "red"
+            },
+            "Body": {
+                "Flinch": 360,
+                "Wound": null,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Forearms": {
+                "Flinch": 240,
+                "Wound": 240,
+                "cut": null,
+                "extract": "white"
+            },
+            "Legs": {
+                "Flinch": 270,
+                "Wound": null,
+                "cut": null,
+                "extract": "white"
+            },
+            "Tail": {
+                "Flinch": 300,
+                "Wound": null,
+                "cut": 270,
+                "extract": "green"
+            }
+        }
+    },
+    "Radobaan": {
+        "hitzones": {
+            "Head": {
+                "cut": 80,
+                "impact": 90,
+                "shot": 50,
+                "fire": 20,
+                "water": 20,
+                "thunder": 20,
+                "ice": 20,
+                "dragon": 30,
+                "ko": 100
+            },
+            "Head Bone": {
+                "cut": 24,
+                "impact": 25,
+                "shot": 15,
+                "fire": 0,
+                "water": 0,
+                "thunder": 0,
+                "ice": 0,
+                "dragon": 0,
+                "ko": 100
+            },
+            "Neck": {
+                "cut": 30,
+                "impact": 30,
+                "shot": 25,
+                "fire": 10,
+                "water": 10,
+                "thunder": 10,
+                "ice": 15,
+                "dragon": 20,
+                "ko": 0
+            },
+            "Body": {
+                "cut": 45,
+                "impact": 50,
+                "shot": 30,
+                "fire": 10,
+                "water": 10,
+                "thunder": 10,
+                "ice": 15,
+                "dragon": 20,
+                "ko": 0
+            },
+            "Back Bone": {
+                "cut": 20,
+                "impact": 25,
+                "shot": 15,
+                "fire": 0,
+                "water": 0,
+                "thunder": 0,
+                "ice": 0,
+                "dragon": 0,
+                "ko": 0
+            },
+            "Left Hindleg": {
+                "cut": 55,
+                "impact": 45,
+                "shot": 40,
+                "fire": 10,
+                "water": 10,
+                "thunder": 10,
+                "ice": 10,
+                "dragon": 15,
+                "ko": 0
+            },
+            "Left Hindleg Bone": {
+                "cut": 20,
+                "impact": 25,
+                "shot": 15,
+                "fire": 0,
+                "water": 0,
+                "thunder": 0,
+                "ice": 0,
+                "dragon": 0,
+                "ko": 0
+            },
+            "Right Hindleg": {
+                "cut": 55,
+                "impact": 45,
+                "shot": 40,
+                "fire": 10,
+                "water": 10,
+                "thunder": 10,
+                "ice": 10,
+                "dragon": 15,
+                "ko": 0
+            },
+            "Right Hindleg Bone": {
+                "cut": 20,
+                "impact": 25,
+                "shot": 15,
+                "fire": 0,
+                "water": 0,
+                "thunder": 0,
+                "ice": 0,
+                "dragon": 0,
+                "ko": 0
+            },
+            "Tail": {
+                "cut": 45,
+                "impact": 30,
+                "shot": 30,
+                "fire": 15,
+                "water": 15,
+                "thunder": 15,
+                "ice": 15,
+                "dragon": 15,
+                "ko": 0
+            }
+        },
+        "break_and_extract": {
+            "Head": {
+                "Flinch": 300,
+                "Wound": null,
+                "cut": null,
+                "extract": "red"
+            },
+            "Head Bone": {
+                "Flinch": 50,
+                "Wound": 100,
+                "cut": null,
+                "extract": "red"
+            },
+            "Body": {
+                "Flinch": 350,
+                "Wound": null,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Back Bone": {
+                "Flinch": 40,
+                "Wound": 80,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Left Hindleg": {
+                "Flinch": 150,
+                "Wound": null,
+                "cut": null,
+                "extract": "white"
+            },
+            "Left Hindleg Bone": {
+                "Flinch": 20,
+                "Wound": 40,
+                "cut": null,
+                "extract": "white"
+            },
+            "Right Hindleg": {
+                "Flinch": 150,
+                "Wound": null,
+                "cut": null,
+                "extract": "white"
+            },
+            "Right Hindleg Bone": {
+                "Flinch": 20,
+                "Wound": 40,
+                "cut": null,
+                "extract": "white"
+            },
+            "Tail": {
+                "Flinch": 175,
+                "Wound": null,
+                "cut": 350,
+                "extract": "orange"
+            }
+        }
+    },
+    "Legiana": {
+        "hitzones": {
+            "Head": {
+                "cut": 65,
+                "impact": 70,
+                "shot": 60,
+                "fire": 20,
+                "water": 15,
+                "thunder": 25,
+                "ice": 0,
+                "dragon": 10,
+                "ko": 100
+            },
+            "Neck": {
+                "cut": 35,
+                "impact": 40,
+                "shot": 30,
+                "fire": 10,
+                "water": 5,
+                "thunder": 15,
+                "ice": 0,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Body": {
+                "cut": 25,
+                "impact": 25,
+                "shot": 20,
+                "fire": 10,
+                "water": 5,
+                "thunder": 15,
+                "ice": 0,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Back": {
+                "cut": 25,
+                "impact": 25,
+                "shot": 20,
+                "fire": 10,
+                "water": 5,
+                "thunder": 15,
+                "ice": 0,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Left Wing": {
+                "cut": 50,
+                "impact": 45,
+                "shot": 40,
+                "fire": 15,
+                "water": 10,
+                "thunder": 20,
+                "ice": 0,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Right Wing": {
+                "cut": 50,
+                "impact": 45,
+                "shot": 40,
+                "fire": 15,
+                "water": 10,
+                "thunder": 20,
+                "ice": 0,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Left Leg": {
+                "cut": 35,
+                "impact": 35,
+                "shot": 30,
+                "fire": 5,
+                "water": 0,
+                "thunder": 10,
+                "ice": 0,
+                "dragon": 0,
+                "ko": 0
+            },
+            "Right Leg": {
+                "cut": 35,
+                "impact": 35,
+                "shot": 30,
+                "fire": 5,
+                "water": 0,
+                "thunder": 10,
+                "ice": 0,
+                "dragon": 0,
+                "ko": 0
+            },
+            "Tail": {
+                "cut": 45,
+                "impact": 40,
+                "shot": 35,
+                "fire": 10,
+                "water": 5,
+                "thunder": 15,
+                "ice": 0,
+                "dragon": 5,
+                "ko": 0
+            }
+        },
+        "break_and_extract": {
+            "Head": {
+                "Flinch": 210,
+                "Wound": 420,
+                "cut": null,
+                "extract": "red"
+            },
+            "Body": {
+                "Flinch": 300,
+                "Wound": 300,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Left Wing": {
+                "Flinch": 210,
+                "Wound": 210,
+                "cut": null,
+                "extract": "white"
+            },
+            "Right Wing": {
+                "Flinch": 210,
+                "Wound": 210,
+                "cut": null,
+                "extract": "white"
+            },
+            "Left Leg": {
+                "Flinch": 240,
+                "Wound": null,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Right Leg": {
+                "Flinch": 240,
+                "Wound": null,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Tail": {
+                "Flinch": 270,
+                "Wound": null,
+                "cut": 270,
+                "extract": "green"
+            }
+        }
+    },
+    "Odogaron": {
+        "hitzones": {
+            "Head": {
+                "cut": 70,
+                "impact": 75,
+                "shot": 65,
+                "fire": 10,
+                "water": 15,
+                "thunder": 20,
+                "ice": 30,
+                "dragon": 0,
+                "ko": 100
+            },
+            "Neck": {
+                "cut": 40,
+                "impact": 45,
+                "shot": 35,
+                "fire": 0,
+                "water": 5,
+                "thunder": 10,
+                "ice": 20,
+                "dragon": 0,
+                "ko": 100
+            },
+            "Body": {
+                "cut": 30,
+                "impact": 30,
+                "shot": 25,
+                "fire": 0,
+                "water": 0,
+                "thunder": 5,
+                "ice": 15,
+                "dragon": 0,
+                "ko": 0
+            },
+            "Back": {
+                "cut": 30,
+                "impact": 30,
+                "shot": 25,
+                "fire": 0,
+                "water": 0,
+                "thunder": 5,
+                "ice": 15,
+                "dragon": 0,
+                "ko": 0
+            },
+            "Left Foreleg": {
+                "cut": 55,
+                "impact": 50,
+                "shot": 45,
+                "fire": 5,
+                "water": 10,
+                "thunder": 15,
+                "ice": 25,
+                "dragon": 0,
+                "ko": 0
+            },
+            "Right Foreleg": {
+                "cut": 55,
+                "impact": 50,
+                "shot": 45,
+                "fire": 5,
+                "water": 10,
+                "thunder": 15,
+                "ice": 25,
+                "dragon": 0,
+                "ko": 0
+            },
+            "Left Hindleg": {
+                "cut": 45,
+                "impact": 40,
+                "shot": 35,
+                "fire": 5,
+                "water": 10,
+                "thunder": 15,
+                "ice": 25,
+                "dragon": 0,
+                "ko": 0
+            },
+            "Right Hindleg": {
+                "cut": 45,
+                "impact": 40,
+                "shot": 35,
+                "fire": 5,
+                "water": 10,
+                "thunder": 15,
+                "ice": 25,
+                "dragon": 0,
+                "ko": 0
+            },
+            "Tail": {
+                "cut": 45,
+                "impact": 40,
+                "shot": 35,
+                "fire": 5,
+                "water": 5,
+                "thunder": 10,
+                "ice": 20,
+                "dragon": 0,
+                "ko": 0
+            }
+        },
+        "break_and_extract": {
+            "Head": {
+                "Flinch": 300,
+                "Wound": 600,
+                "cut": null,
+                "extract": "red"
+            },
+            "Body": {
+                "Flinch": 450,
+                "Wound": null,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Forearms": {
+                "Flinch": 240,
+                "Wound": 240,
+                "cut": null,
+                "extract": "red"
+            },
+            "Legs": {
+                "Flinch": 270,
+                "Wound": 270,
+                "cut": null,
+                "extract": "white"
+            },
+            "Tail": {
+                "Flinch": 270,
+                "Wound": 270,
+                "cut": 540,
+                "extract": "orange"
+            }
+        }
+    },
+    "Rathalos": {
+        "hitzones": {
+            "Head": {
+                "cut": 65,
+                "impact": 70,
+                "shot": 60,
+                "fire": 0,
+                "water": 15,
+                "thunder": 20,
+                "ice": 15,
+                "dragon": 30,
+                "ko": 100
+            },
+            "Neck": {
+                "cut": 35,
+                "impact": 40,
+                "shot": 30,
+                "fire": 0,
+                "water": 5,
+                "thunder": 10,
+                "ice": 5,
+                "dragon": 20,
+                "ko": 0
+            },
+            "Body": {
+                "cut": 25,
+                "impact": 25,
+                "shot": 20,
+                "fire": 0,
+                "water": 5,
+                "thunder": 10,
+                "ice": 5,
+                "dragon": 20,
+                "ko": 0
+            },
+            "Back": {
+                "cut": 25,
+                "impact": 25,
+                "shot": 20,
+                "fire": 0,
+                "water": 5,
+                "thunder": 10,
+                "ice": 5,
+                "dragon": 20,
+                "ko": 0
+            },
+            "Left Wing": {
+                "cut": 50,
+                "impact": 45,
+                "shot": 40,
+                "fire": 0,
+                "water": 10,
+                "thunder": 15,
+                "ice": 10,
+                "dragon": 25,
+                "ko": 0
+            },
+            "Right Wing": {
+                "cut": 50,
+                "impact": 45,
+                "shot": 40,
+                "fire": 0,
+                "water": 10,
+                "thunder": 15,
+                "ice": 10,
+                "dragon": 25,
+                "ko": 0
+            },
+            "Left Leg": {
+                "cut": 35,
+                "impact": 35,
+                "shot": 30,
+                "fire": 0,
+                "water": 0,
+                "thunder": 5,
+                "ice": 0,
+                "dragon": 15,
+                "ko": 0
+            },
+            "Right Leg": {
+                "cut": 35,
+                "impact": 35,
+                "shot": 30,
+                "fire": 0,
+                "water": 0,
+                "thunder": 5,
+                "ice": 0,
+                "dragon": 15,
+                "ko": 0
+            },
+            "Tail": {
+                "cut": 45,
+                "impact": 40,
+                "shot": 35,
+                "fire": 0,
+                "water": 5,
+                "thunder": 10,
+                "ice": 5,
+                "dragon": 20,
+                "ko": 0
+            }
+        },
+        "break_and_extract": {
+            "Head": {
+                "Flinch": 240,
+                "Wound": 480,
+                "cut": null,
+                "extract": "red"
+            },
+            "Body": {
+                "Flinch": 300,
+                "Wound": 300,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Left Wing": {
+                "Flinch": 220,
+                "Wound": 220,
+                "cut": null,
+                "extract": "white"
+            },
+            "Right Wing": {
+                "Flinch": 220,
+                "Wound": 220,
+                "cut": null,
+                "extract": "white"
+            },
+            "Left Leg": {
+                "Flinch": 190,
+                "Wound": null,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Right Leg": {
+                "Flinch": 190,
+                "Wound": null,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Tail": {
+                "Flinch": 200,
+                "Wound": null,
+                "cut": 200,
+                "extract": "green"
+            }
+        }
+    },
+    "Diablos": {
+        "hitzones": {
+            "Horn": {
+                "cut": 21,
+                "impact": 42,
+                "shot": 20,
+                "fire": 0,
+                "water": 20,
+                "thunder": 10,
+                "ice": 25,
+                "dragon": 20,
+                "ko": 100
+            },
+            "Head": {
+                "cut": 45,
+                "impact": 63,
+                "shot": 40,
+                "fire": 0,
+                "water": 25,
+                "thunder": 10,
+                "ice": 30,
+                "dragon": 25,
+                "ko": 100
+            },
+            "Neck": {
+                "cut": 40,
+                "impact": 40,
+                "shot": 25,
+                "fire": 0,
+                "water": 15,
+                "thunder": 5,
+                "ice": 20,
+                "dragon": 15,
+                "ko": 0
+            },
+            "Stomach": {
+                "cut": 73,
+                "impact": 78,
+                "shot": 40,
+                "fire": 0,
+                "water": 30,
+                "thunder": 10,
+                "ice": 35,
+                "dragon": 30,
+                "ko": 0
+            },
+            "Back": {
+                "cut": 24,
+                "impact": 42,
+                "shot": 35,
+                "fire": 0,
+                "water": 20,
+                "thunder": 10,
+                "ice": 25,
+                "dragon": 20,
+                "ko": 0
+            },
+            "Left Wing": {
+                "cut": 40,
+                "impact": 30,
+                "shot": 60,
+                "fire": 0,
+                "water": 25,
+                "thunder": 10,
+                "ice": 30,
+                "dragon": 25,
+                "ko": 0
+            },
+            "Right Wing": {
+                "cut": 40,
+                "impact": 30,
+                "shot": 60,
+                "fire": 0,
+                "water": 25,
+                "thunder": 10,
+                "ice": 30,
+                "dragon": 25,
+                "ko": 0
+            },
+            "Left Leg": {
+                "cut": 35,
+                "impact": 35,
+                "shot": 35,
+                "fire": 0,
+                "water": 10,
+                "thunder": 5,
+                "ice": 15,
+                "dragon": 10,
+                "ko": 0
+            },
+            "Right Leg": {
+                "cut": 35,
+                "impact": 35,
+                "shot": 35,
+                "fire": 0,
+                "water": 10,
+                "thunder": 5,
+                "ice": 15,
+                "dragon": 10,
+                "ko": 0
+            },
+            "Tail": {
+                "cut": 50,
+                "impact": 24,
+                "shot": 45,
+                "fire": 0,
+                "water": 20,
+                "thunder": 10,
+                "ice": 15,
+                "dragon": 20,
+                "ko": 0
+            },
+            "Tail Tip": {
+                "cut": 23,
+                "impact": 33,
+                "shot": 10,
+                "fire": 0,
+                "water": 20,
+                "thunder": 10,
+                "ice": 25,
+                "dragon": 20,
+                "ko": 0
+            }
+        },
+        "break_and_extract": {
+            "Head": {
+                "Flinch": 200,
+                "Wound": null,
+                "cut": null,
+                "extract": "red"
+            },
+            "Body": {
+                "Flinch": 300,
+                "Wound": 600,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Left Wing": {
+                "Flinch": 150,
+                "Wound": 150,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Right Wing": {
+                "Flinch": 150,
+                "Wound": null,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Left Leg": {
+                "Flinch": 200,
+                "Wound": null,
+                "cut": null,
+                "extract": "white"
+            },
+            "Right Leg": {
+                "Flinch": 200,
+                "Wound": null,
+                "cut": null,
+                "extract": "white"
+            },
+            "Tail": {
+                "Flinch": 300,
+                "Wound": null,
+                "cut": 500,
+                "extract": "red"
+            }
+        }
+    },
+    "Kirin": {
+        "hitzones": {
+            "Head": {
+                "cut": 55,
+                "impact": 55,
+                "shot": 45,
+                "fire": 25,
+                "water": 20,
+                "thunder": 0,
+                "ice": 20,
+                "dragon": 5,
+                "ko": 100
+            },
+            "Body": {
+                "cut": 31,
+                "impact": 31,
+                "shot": 22,
+                "fire": 20,
+                "water": 15,
+                "thunder": 0,
+                "ice": 15,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Body (Electricity)": {
+                "cut": 20,
+                "impact": 20,
+                "shot": 10,
+                "fire": 15,
+                "water": 10,
+                "thunder": 0,
+                "ice": 10,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Lower Body": {
+                "cut": 29,
+                "impact": 29,
+                "shot": 20,
+                "fire": 20,
+                "water": 15,
+                "thunder": 0,
+                "ice": 15,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Lower Body (Electricity)": {
+                "cut": 20,
+                "impact": 20,
+                "shot": 10,
+                "fire": 15,
+                "water": 10,
+                "thunder": 0,
+                "ice": 10,
+                "dragon": 5,
+                "ko": 0
+            }
+        },
+        "break_and_extract": {
+            "Head": {
+                "Flinch": 200,
+                "Wound": null,
+                "cut": null,
+                "extract": "red"
+            },
+            "Upper Body": {
+                "Flinch": 240,
+                "Wound": null,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Lower Body": {
+                "Flinch": 260,
+                "Wound": null,
+                "cut": null,
+                "extract": "white"
+            }
+        }
+    },
+    "Zorah Magdaros": {
+        "hitzones": {
+            "Head": {
+                "cut": 40,
+                "impact": 40,
+                "shot": 40,
+                "fire": 0,
+                "water": 20,
+                "thunder": 10,
+                "ice": 15,
+                "dragon": 20,
+                "ko": 0
+            },
+            "Body": {
+                "cut": 30,
+                "impact": 30,
+                "shot": 25,
+                "fire": 0,
+                "water": 10,
+                "thunder": 5,
+                "ice": 5,
+                "dragon": 10,
+                "ko": 0
+            },
+            "Chest (Before Wounded)": {
+                "cut": 50,
+                "impact": 50,
+                "shot": 30,
+                "fire": 0,
+                "water": 25,
+                "thunder": 10,
+                "ice": 20,
+                "dragon": 25,
+                "ko": 0
+            },
+            "Chest (After Wounded)": {
+                "cut": 80,
+                "impact": 80,
+                "shot": 80,
+                "fire": 0,
+                "water": 30,
+                "thunder": 15,
+                "ice": 25,
+                "dragon": 30,
+                "ko": 0
+            },
+            "Left Foreleg": {
+                "cut": 30,
+                "impact": 30,
+                "shot": 25,
+                "fire": 0,
+                "water": 10,
+                "thunder": 5,
+                "ice": 5,
+                "dragon": 10,
+                "ko": 0
+            },
+            "Right Foreleg": {
+                "cut": 30,
+                "impact": 30,
+                "shot": 25,
+                "fire": 0,
+                "water": 10,
+                "thunder": 5,
+                "ice": 5,
+                "dragon": 10,
+                "ko": 0
+            },
+            "Left Hindleg": {
+                "cut": 25,
+                "impact": 25,
+                "shot": 20,
+                "fire": 0,
+                "water": 10,
+                "thunder": 5,
+                "ice": 5,
+                "dragon": 10,
+                "ko": 0
+            },
+            "Right Hindleg": {
+                "cut": 25,
+                "impact": 25,
+                "shot": 20,
+                "fire": 0,
+                "water": 10,
+                "thunder": 5,
+                "ice": 5,
+                "dragon": 10,
+                "ko": 0
+            },
+            "Tail": {
+                "cut": 25,
+                "impact": 25,
+                "shot": 20,
+                "fire": 0,
+                "water": 10,
+                "thunder": 5,
+                "ice": 5,
+                "dragon": 10,
+                "ko": 0
+            },
+            "Shell": {
+                "cut": 1,
+                "impact": 1,
+                "shot": 1,
+                "fire": 0,
+                "water": 0,
+                "thunder": 0,
+                "ice": 0,
+                "dragon": 0,
+                "ko": 0
+            },
+            "Exhaust Organ (Crater)": {
+                "cut": 95,
+                "impact": 95,
+                "shot": 90,
+                "fire": 0,
+                "water": 20,
+                "thunder": 0,
+                "ice": 15,
+                "dragon": 20,
+                "ko": 0
+            },
+            "Exhaust Organ (Head)": {
+                "cut": 95,
+                "impact": 95,
+                "shot": 90,
+                "fire": 0,
+                "water": 20,
+                "thunder": 0,
+                "ice": 15,
+                "dragon": 20,
+                "ko": 0
+            },
+            "Exhaust Organ (Central)": {
+                "cut": 95,
+                "impact": 95,
+                "shot": 90,
+                "fire": 0,
+                "water": 20,
+                "thunder": 0,
+                "ice": 15,
+                "dragon": 20,
+                "ko": 0
+            },
+            "Exhaust Organ (Rear)": {
+                "cut": 95,
+                "impact": 95,
+                "shot": 90,
+                "fire": 0,
+                "water": 20,
+                "thunder": 0,
+                "ice": 15,
+                "dragon": 20,
+                "ko": 0
+            },
+            "Left Weak Shell": {
+                "cut": 60,
+                "impact": 60,
+                "shot": 50,
+                "fire": 0,
+                "water": 20,
+                "thunder": 10,
+                "ice": 15,
+                "dragon": 20,
+                "ko": 0
+            },
+            "Right Weak Shell": {
+                "cut": 60,
+                "impact": 60,
+                "shot": 50,
+                "fire": 0,
+                "water": 20,
+                "thunder": 10,
+                "ice": 15,
+                "dragon": 20,
+                "ko": 0
+            }
+        },
+        "break_and_extract": {
+            "Head": {
+                "Flinch": 400,
+                "Wound": 400,
+                "cut": null,
+                "extract": "red"
+            },
+            "Body": {
+                "Flinch": 800,
+                "Wound": null,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Chest": {
+                "Flinch": 500,
+                "Wound": 1000,
+                "cut": null,
+                "extract": "red"
+            },
+            "Left Foreleg": {
+                "Flinch": 1000,
+                "Wound": null,
+                "cut": null,
+                "extract": "red"
+            },
+            "Right Foreleg": {
+                "Flinch": 1000,
+                "Wound": null,
+                "cut": null,
+                "extract": "red"
+            },
+            "Left Hindleg": {
+                "Flinch": 1000,
+                "Wound": null,
+                "cut": null,
+                "extract": "white"
+            },
+            "Right Hindleg": {
+                "Flinch": 1000,
+                "Wound": null,
+                "cut": null,
+                "extract": "white"
+            },
+            "Tail": {
+                "Flinch": 1000,
+                "Wound": null,
+                "cut": null,
+                "extract": "white"
+            },
+            "Shell": {
+                "Flinch": 1500,
+                "Wound": null,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Exhaust Organ (Small)": {
+                "Flinch": 1200,
+                "Wound": 1200,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Exhaust Organ (Large)": {
+                "Flinch": 1500,
+                "Wound": 1500,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Weak Shell": {
+                "Flinch": 100,
+                "Wound": 100,
+                "cut": null,
+                "extract": "red"
+            }
+        }
+    },
+    "Dodogama": {
+        "hitzones": {
+            "Head": {
+                "cut": 35,
+                "impact": 35,
+                "shot": 25,
+                "fire": 0,
+                "water": 20,
+                "thunder": 30,
+                "ice": 20,
+                "dragon": 10,
+                "ko": 100
+            },
+            "Head (Rock 1)": {
+                "cut": 75,
+                "impact": 75,
+                "shot": 65,
+                "fire": 0,
+                "water": 20,
+                "thunder": 30,
+                "ice": 20,
+                "dragon": 10,
+                "ko": 100
+            },
+            "Head (Rock 2)": {
+                "cut": 100,
+                "impact": 100,
+                "shot": 90,
+                "fire": 0,
+                "water": 20,
+                "thunder": 30,
+                "ice": 20,
+                "dragon": 10,
+                "ko": 100
+            },
+            "Neck": {
+                "cut": 30,
+                "impact": 30,
+                "shot": 20,
+                "fire": 0,
+                "water": 10,
+                "thunder": 25,
+                "ice": 10,
+                "dragon": 5,
+                "ko": 100
+            },
+            "Neck (Rock 1)": {
+                "cut": 65,
+                "impact": 65,
+                "shot": 55,
+                "fire": 0,
+                "water": 10,
+                "thunder": 25,
+                "ice": 10,
+                "dragon": 5,
+                "ko": 100
+            },
+            "Neck (Rock 2)": {
+                "cut": 90,
+                "impact": 90,
+                "shot": 80,
+                "fire": 0,
+                "water": 10,
+                "thunder": 25,
+                "ice": 10,
+                "dragon": 5,
+                "ko": 100
+            },
+            "Body": {
+                "cut": 45,
+                "impact": 45,
+                "shot": 40,
+                "fire": 0,
+                "water": 5,
+                "thunder": 10,
+                "ice": 5,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Back": {
+                "cut": 45,
+                "impact": 45,
+                "shot": 40,
+                "fire": 0,
+                "water": 5,
+                "thunder": 10,
+                "ice": 5,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Forelegs": {
+                "cut": 45,
+                "impact": 45,
+                "shot": 40,
+                "fire": 0,
+                "water": 5,
+                "thunder": 10,
+                "ice": 5,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Hindlegs": {
+                "cut": 45,
+                "impact": 45,
+                "shot": 40,
+                "fire": 0,
+                "water": 5,
+                "thunder": 10,
+                "ice": 5,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Tail": {
+                "cut": 60,
+                "impact": 60,
+                "shot": 50,
+                "fire": 0,
+                "water": 10,
+                "thunder": 15,
+                "ice": 10,
+                "dragon": 5,
+                "ko": 0
+            }
+        },
+        "break_and_extract": {
+            "Head": {
+                "Flinch": 150,
+                "Wound": 750,
+                "cut": null,
+                "extract": "red"
+            },
+            "Body": {
+                "Flinch": 300,
+                "Wound": null,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Forelegs": {
+                "Flinch": 210,
+                "Wound": 210,
+                "cut": null,
+                "extract": "white"
+            },
+            "Legs": {
+                "Flinch": 240,
+                "Wound": null,
+                "cut": null,
+                "extract": "white"
+            },
+            "Tail": {
+                "Flinch": 100,
+                "Wound": null,
+                "cut": 270,
+                "extract": "green"
+            }
+        }
+    },
+    "Pink Rathian": {
+        "hitzones": {
+            "Head": {
+                "cut": 60,
+                "impact": 65,
+                "shot": 55,
+                "fire": 0,
+                "water": 15,
+                "thunder": 20,
+                "ice": 15,
+                "dragon": 30,
+                "ko": 100
+            },
+            "Neck": {
+                "cut": 30,
+                "impact": 35,
+                "shot": 25,
+                "fire": 0,
+                "water": 0,
+                "thunder": 5,
+                "ice": 0,
+                "dragon": 15,
+                "ko": 0
+            },
+            "Body": {
+                "cut": 22,
+                "impact": 22,
+                "shot": 20,
+                "fire": 0,
+                "water": 5,
+                "thunder": 10,
+                "ice": 5,
+                "dragon": 20,
+                "ko": 0
+            },
+            "Back": {
+                "cut": 22,
+                "impact": 22,
+                "shot": 20,
+                "fire": 0,
+                "water": 5,
+                "thunder": 10,
+                "ice": 5,
+                "dragon": 20,
+                "ko": 0
+            },
+            "Left Wing": {
+                "cut": 50,
+                "impact": 45,
+                "shot": 40,
+                "fire": 0,
+                "water": 10,
+                "thunder": 15,
+                "ice": 10,
+                "dragon": 25,
+                "ko": 0
+            },
+            "Right Wing": {
+                "cut": 50,
+                "impact": 45,
+                "shot": 40,
+                "fire": 0,
+                "water": 10,
+                "thunder": 15,
+                "ice": 10,
+                "dragon": 25,
+                "ko": 0
+            },
+            "Left Leg": {
+                "cut": 40,
+                "impact": 40,
+                "shot": 35,
+                "fire": 0,
+                "water": 0,
+                "thunder": 5,
+                "ice": 0,
+                "dragon": 15,
+                "ko": 0
+            },
+            "Right Leg": {
+                "cut": 40,
+                "impact": 40,
+                "shot": 35,
+                "fire": 0,
+                "water": 0,
+                "thunder": 5,
+                "ice": 0,
+                "dragon": 15,
+                "ko": 0
+            },
+            "Tail": {
+                "cut": 20,
+                "impact": 25,
+                "shot": 20,
+                "fire": 0,
+                "water": 5,
+                "thunder": 10,
+                "ice": 5,
+                "dragon": 20,
+                "ko": 0
+            },
+            "Tail Tip": {
+                "cut": 50,
+                "impact": 45,
+                "shot": 40,
+                "fire": 0,
+                "water": 5,
+                "thunder": 10,
+                "ice": 5,
+                "dragon": 20,
+                "ko": 0
+            }
+        },
+        "break_and_extract": {
+            "Head": {
+                "Flinch": 240,
+                "Wound": 480,
+                "cut": null,
+                "extract": "red"
+            },
+            "Body": {
+                "Flinch": 300,
+                "Wound": 300,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Left Wing": {
+                "Flinch": 180,
+                "Wound": 180,
+                "cut": null,
+                "extract": "white"
+            },
+            "Right Wing": {
+                "Flinch": 180,
+                "Wound": 180,
+                "cut": null,
+                "extract": "white"
+            },
+            "Left Leg": {
+                "Flinch": 210,
+                "Wound": null,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Right Leg": {
+                "Flinch": 210,
+                "Wound": null,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Tail": {
+                "Flinch": 200,
+                "Wound": null,
+                "cut": 400,
+                "extract": "green"
+            }
+        }
+    },
+    "Bazelgeuse": {
+        "hitzones": {
+            "Head": {
+                "cut": 80,
+                "impact": 85,
+                "shot": 60,
+                "fire": 0,
+                "water": 15,
+                "thunder": 25,
+                "ice": 20,
+                "dragon": 20,
+                "ko": 100
+            },
+            "Body": {
+                "cut": 45,
+                "impact": 45,
+                "shot": 35,
+                "fire": 0,
+                "water": 5,
+                "thunder": 15,
+                "ice": 10,
+                "dragon": 10,
+                "ko": 0
+            },
+            "Back": {
+                "cut": 30,
+                "impact": 30,
+                "shot": 25,
+                "fire": 0,
+                "water": 5,
+                "thunder": 15,
+                "ice": 10,
+                "dragon": 10,
+                "ko": 0
+            },
+            "Legs": {
+                "cut": 36,
+                "impact": 34,
+                "shot": 30,
+                "fire": 0,
+                "water": 5,
+                "thunder": 15,
+                "ice": 10,
+                "dragon": 10,
+                "ko": 0
+            },
+            "Wings": {
+                "cut": 25,
+                "impact": 25,
+                "shot": 65,
+                "fire": 0,
+                "water": 5,
+                "thunder": 15,
+                "ice": 10,
+                "dragon": 10,
+                "ko": 0
+            },
+            "Tail": {
+                "cut": 75,
+                "impact": 70,
+                "shot": 55,
+                "fire": 0,
+                "water": 10,
+                "thunder": 20,
+                "ice": 15,
+                "dragon": 15,
+                "ko": 0
+            }
+        },
+        "break_and_extract": {
+            "Head": {
+                "Flinch": 300,
+                "Wound": 600,
+                "cut": null,
+                "extract": "red"
+            },
+            "Body": {
+                "Flinch": 320,
+                "Wound": 320,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Legs": {
+                "Flinch": 240,
+                "Wound": null,
+                "cut": null,
+                "extract": "white"
+            },
+            "Left Wing": {
+                "Flinch": 180,
+                "Wound": 180,
+                "cut": null,
+                "extract": "white"
+            },
+            "Right Wing": {
+                "Flinch": 180,
+                "Wound": 180,
+                "cut": null,
+                "extract": "white"
+            },
+            "Tail": {
+                "Flinch": 280,
+                "Wound": null,
+                "cut": 500,
+                "extract": "red"
+            }
+        }
+    },
+    "Deviljho": {
+        "hitzones": {},
+        "break_and_extract": {}
+    },
+    "Lavasioth": {
+        "hitzones": {
+            "Head": {
+                "cut": 15,
+                "impact": 20,
+                "shot": 15,
+                "fire": 50,
+                "water": 15,
+                "thunder": 0,
+                "ice": 0,
+                "dragon": 5,
+                "ko": 100
+            },
+            "Head (Wounded)": {
+                "cut": 35,
+                "impact": 40,
+                "shot": 35,
+                "fire": 5,
+                "water": 35,
+                "thunder": 15,
+                "ice": 15,
+                "dragon": 5,
+                "ko": 100
+            },
+            "Neck": {
+                "cut": 15,
+                "impact": 15,
+                "shot": 15,
+                "fire": 10,
+                "water": 10,
+                "thunder": 0,
+                "ice": 0,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Body": {
+                "cut": 35,
+                "impact": 35,
+                "shot": 35,
+                "fire": 10,
+                "water": 10,
+                "thunder": 0,
+                "ice": 0,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Back": {
+                "cut": 20,
+                "impact": 20,
+                "shot": 20,
+                "fire": 10,
+                "water": 15,
+                "thunder": 0,
+                "ice": 0,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Back (Wounded)": {
+                "cut": 35,
+                "impact": 35,
+                "shot": 35,
+                "fire": 5,
+                "water": 30,
+                "thunder": 20,
+                "ice": 20,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Fins": {
+                "cut": 30,
+                "impact": 30,
+                "shot": 30,
+                "fire": 10,
+                "water": 10,
+                "thunder": 0,
+                "ice": 0,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Legs": {
+                "cut": 15,
+                "impact": 15,
+                "shot": 15,
+                "fire": 10,
+                "water": 5,
+                "thunder": 0,
+                "ice": 0,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Legs (Wounded)": {
+                "cut": 30,
+                "impact": 30,
+                "shot": 30,
+                "fire": 5,
+                "water": 25,
+                "thunder": 5,
+                "ice": 5,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Tail": {
+                "cut": 20,
+                "impact": 15,
+                "shot": 20,
+                "fire": 10,
+                "water": 10,
+                "thunder": 0,
+                "ice": 0,
+                "dragon": 5,
+                "ko": 0
+            }
+        },
+        "break_and_extract": {
+            "Head": {
+                "Flinch": 100,
+                "Wound": 600,
+                "cut": null,
+                "extract": "red"
+            },
+            "Back": {
+                "Flinch": 300,
+                "Wound": 600,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Body": {
+                "Flinch": 100,
+                "Wound": null,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Left Foot": {
+                "Flinch": 120,
+                "Wound": 480,
+                "cut": null,
+                "extract": "white"
+            },
+            "Right Foot": {
+                "Flinch": 120,
+                "Wound": 480,
+                "cut": null,
+                "extract": "white"
+            },
+            "Tail": {
+                "Flinch": 100,
+                "Wound": 400,
+                "cut": null,
+                "extract": "red"
+            }
+        }
+    },
+    "Uragaan": {
+        "hitzones": {
+            "Head": {
+                "cut": 70,
+                "impact": 80,
+                "shot": 50,
+                "fire": 0,
+                "water": 20,
+                "thunder": 15,
+                "ice": 15,
+                "dragon": 20,
+                "ko": 100
+            },
+            "Jaw": {
+                "cut": 19,
+                "impact": 20,
+                "shot": 10,
+                "fire": 0,
+                "water": 40,
+                "thunder": 5,
+                "ice": 20,
+                "dragon": 30,
+                "ko": 100
+            },
+            "Jaw (Wounded)": {
+                "cut": 55,
+                "impact": 60,
+                "shot": 40,
+                "fire": 0,
+                "water": 20,
+                "thunder": 5,
+                "ice": 15,
+                "dragon": 20,
+                "ko": 100
+            },
+            "Upper Neck": {
+                "cut": 22,
+                "impact": 24,
+                "shot": 10,
+                "fire": 0,
+                "water": 15,
+                "thunder": 0,
+                "ice": 10,
+                "dragon": 15,
+                "ko": 0
+            },
+            "Lower Neck": {
+                "cut": 25,
+                "impact": 30,
+                "shot": 25,
+                "fire": 0,
+                "water": 20,
+                "thunder": 0,
+                "ice": 10,
+                "dragon": 15,
+                "ko": 0
+            },
+            "Body": {
+                "cut": 50,
+                "impact": 45,
+                "shot": 45,
+                "fire": 0,
+                "water": 30,
+                "thunder": 5,
+                "ice": 15,
+                "dragon": 30,
+                "ko": 0
+            },
+            "Back": {
+                "cut": 22,
+                "impact": 24,
+                "shot": 10,
+                "fire": 0,
+                "water": 15,
+                "thunder": 0,
+                "ice": 10,
+                "dragon": 15,
+                "ko": 0
+            },
+            "Forearms": {
+                "cut": 25,
+                "impact": 30,
+                "shot": 20,
+                "fire": 0,
+                "water": 15,
+                "thunder": 0,
+                "ice": 10,
+                "dragon": 15,
+                "ko": 0
+            },
+            "Hindlegs": {
+                "cut": 45,
+                "impact": 40,
+                "shot": 20,
+                "fire": 0,
+                "water": 15,
+                "thunder": 0,
+                "ice": 10,
+                "dragon": 15,
+                "ko": 0
+            },
+            "Tail": {
+                "cut": 25,
+                "impact": 25,
+                "shot": 15,
+                "fire": 0,
+                "water": 15,
+                "thunder": 0,
+                "ice": 10,
+                "dragon": 15,
+                "ko": 0
+            }
+        },
+        "break_and_extract": {
+            "Head": {
+                "Flinch": 250,
+                "Wound": 250,
+                "cut": null,
+                "extract": "red"
+            },
+            "Neck": {
+                "Flinch": 200,
+                "Wound": 200,
+                "cut": null,
+                "extract": "red"
+            },
+            "Body": {
+                "Flinch": 500,
+                "Wound": null,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Forearms": {
+                "Flinch": 200,
+                "Wound": null,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Left Leg": {
+                "Flinch": 260,
+                "Wound": null,
+                "cut": null,
+                "extract": "white"
+            },
+            "Right Leg": {
+                "Flinch": 260,
+                "Wound": null,
+                "cut": null,
+                "extract": "white"
+            },
+            "Tail": {
+                "Flinch": 120,
+                "Wound": 120,
+                "cut": 120,
+                "extract": "green"
+            }
+        }
+    },
+    "Azure Rathalos": {
+        "hitzones": {
+            "Head": {
+                "cut": 60,
+                "impact": 65,
+                "shot": 55,
+                "fire": 0,
+                "water": 15,
+                "thunder": 15,
+                "ice": 20,
+                "dragon": 30,
+                "ko": 100
+            },
+            "Neck": {
+                "cut": 30,
+                "impact": 35,
+                "shot": 25,
+                "fire": 0,
+                "water": 5,
+                "thunder": 5,
+                "ice": 10,
+                "dragon": 20,
+                "ko": 0
+            },
+            "Body": {
+                "cut": 22,
+                "impact": 22,
+                "shot": 20,
+                "fire": 0,
+                "water": 5,
+                "thunder": 5,
+                "ice": 10,
+                "dragon": 20,
+                "ko": 0
+            },
+            "Back": {
+                "cut": 22,
+                "impact": 22,
+                "shot": 20,
+                "fire": 0,
+                "water": 5,
+                "thunder": 5,
+                "ice": 10,
+                "dragon": 20,
+                "ko": 0
+            },
+            "Left Wing": {
+                "cut": 50,
+                "impact": 45,
+                "shot": 40,
+                "fire": 0,
+                "water": 10,
+                "thunder": 10,
+                "ice": 15,
+                "dragon": 25,
+                "ko": 0
+            },
+            "Right Wing": {
+                "cut": 50,
+                "impact": 45,
+                "shot": 40,
+                "fire": 0,
+                "water": 10,
+                "thunder": 10,
+                "ice": 15,
+                "dragon": 25,
+                "ko": 0
+            },
+            "Left Leg": {
+                "cut": 35,
+                "impact": 35,
+                "shot": 30,
+                "fire": 0,
+                "water": 0,
+                "thunder": 0,
+                "ice": 5,
+                "dragon": 15,
+                "ko": 0
+            },
+            "Right Leg": {
+                "cut": 35,
+                "impact": 35,
+                "shot": 30,
+                "fire": 0,
+                "water": 0,
+                "thunder": 0,
+                "ice": 5,
+                "dragon": 15,
+                "ko": 0
+            },
+            "Tail": {
+                "cut": 25,
+                "impact": 25,
+                "shot": 20,
+                "fire": 0,
+                "water": 5,
+                "thunder": 5,
+                "ice": 10,
+                "dragon": 20,
+                "ko": 0
+            },
+            "Tail Tip": {
+                "cut": 55,
+                "impact": 50,
+                "shot": 45,
+                "fire": 0,
+                "water": 10,
+                "thunder": 10,
+                "ice": 15,
+                "dragon": 25,
+                "ko": 0
+            }
+        },
+        "break_and_extract": {
+            "Head": {
+                "Flinch": 240,
+                "Wound": 480,
+                "cut": null,
+                "extract": "red"
+            },
+            "Body": {
+                "Flinch": 300,
+                "Wound": 300,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Left Wing": {
+                "Flinch": 220,
+                "Wound": 220,
+                "cut": null,
+                "extract": "white"
+            },
+            "Right Wing": {
+                "Flinch": 220,
+                "Wound": 220,
+                "cut": null,
+                "extract": "white"
+            },
+            "Left Leg": {
+                "Flinch": 190,
+                "Wound": null,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Right Leg": {
+                "Flinch": 190,
+                "Wound": null,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Tail": {
+                "Flinch": 200,
+                "Wound": null,
+                "cut": 200,
+                "extract": "green"
+            }
+        }
+    },
+    "Black Diablos": {
+        "hitzones": {
+            "Horn": {
+                "cut": 19,
+                "impact": 37,
+                "shot": 15,
+                "fire": 0,
+                "water": 20,
+                "thunder": 10,
+                "ice": 25,
+                "dragon": 0,
+                "ko": 100
+            },
+            "Head": {
+                "cut": 43,
+                "impact": 55,
+                "shot": 30,
+                "fire": 0,
+                "water": 25,
+                "thunder": 10,
+                "ice": 30,
+                "dragon": 0,
+                "ko": 0
+            },
+            "Neck": {
+                "cut": 40,
+                "impact": 40,
+                "shot": 25,
+                "fire": 0,
+                "water": 15,
+                "thunder": 5,
+                "ice": 20,
+                "dragon": 0,
+                "ko": 0
+            },
+            "Stomach": {
+                "cut": 63,
+                "impact": 68,
+                "shot": 35,
+                "fire": 0,
+                "water": 30,
+                "thunder": 10,
+                "ice": 35,
+                "dragon": 0,
+                "ko": 0
+            },
+            "Back": {
+                "cut": 24,
+                "impact": 42,
+                "shot": 30,
+                "fire": 0,
+                "water": 20,
+                "thunder": 10,
+                "ice": 25,
+                "dragon": 0,
+                "ko": 0
+            },
+            "Left Wing": {
+                "cut": 40,
+                "impact": 30,
+                "shot": 60,
+                "fire": 0,
+                "water": 25,
+                "thunder": 10,
+                "ice": 30,
+                "dragon": 0,
+                "ko": 0
+            },
+            "Right Wing": {
+                "cut": 40,
+                "impact": 30,
+                "shot": 60,
+                "fire": 0,
+                "water": 25,
+                "thunder": 10,
+                "ice": 30,
+                "dragon": 0,
+                "ko": 0
+            },
+            "Left Leg": {
+                "cut": 35,
+                "impact": 35,
+                "shot": 35,
+                "fire": 0,
+                "water": 10,
+                "thunder": 5,
+                "ice": 15,
+                "dragon": 0,
+                "ko": 0
+            },
+            "Right Leg": {
+                "cut": 35,
+                "impact": 35,
+                "shot": 35,
+                "fire": 0,
+                "water": 10,
+                "thunder": 5,
+                "ice": 15,
+                "dragon": 0,
+                "ko": 0
+            },
+            "Tail": {
+                "cut": 45,
+                "impact": 24,
+                "shot": 45,
+                "fire": 0,
+                "water": 20,
+                "thunder": 10,
+                "ice": 15,
+                "dragon": 0,
+                "ko": 0
+            },
+            "Tail Tip": {
+                "cut": 20,
+                "impact": 24,
+                "shot": 10,
+                "fire": 0,
+                "water": 20,
+                "thunder": 10,
+                "ice": 25,
+                "dragon": 0,
+                "ko": 0
+            }
+        },
+        "break_and_extract": {
+            "Head": {
+                "Flinch": 200,
+                "Wound": 400,
+                "cut": null,
+                "extract": "red"
+            },
+            "Body": {
+                "Flinch": 300,
+                "Wound": 300,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Left Wing": {
+                "Flinch": 150,
+                "Wound": null,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Right Wing": {
+                "Flinch": 150,
+                "Wound": null,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Left Leg": {
+                "Flinch": 200,
+                "Wound": null,
+                "cut": null,
+                "extract": "white"
+            },
+            "Right Leg": {
+                "Flinch": 200,
+                "Wound": null,
+                "cut": null,
+                "extract": "white"
+            },
+            "Tail": {
+                "Flinch": 300,
+                "Wound": null,
+                "cut": 500,
+                "extract": "red"
+            }
+        }
+    },
+    "Nergigante": {
+        "hitzones": {
+            "Horn": {
+                "cut": 20,
+                "impact": 25,
+                "shot": 35,
+                "fire": 5,
+                "water": 15,
+                "thunder": 20,
+                "ice": 0,
+                "dragon": 10,
+                "ko": 100
+            },
+            "Horn (Wounded)": {
+                "cut": 35,
+                "impact": 40,
+                "shot": 45,
+                "fire": 5,
+                "water": 15,
+                "thunder": 20,
+                "ice": 0,
+                "dragon": 5,
+                "ko": 100
+            },
+            "Head": {
+                "cut": 45,
+                "impact": 60,
+                "shot": 40,
+                "fire": 5,
+                "water": 10,
+                "thunder": 15,
+                "ice": 15,
+                "dragon": 5,
+                "ko": 100
+            },
+            "Head (White)": {
+                "cut": 75,
+                "impact": 90,
+                "shot": 70,
+                "fire": 5,
+                "water": 10,
+                "thunder": 15,
+                "ice": 15,
+                "dragon": 5,
+                "ko": 100
+            },
+            "Head (Black)": {
+                "cut": 20,
+                "impact": 25,
+                "shot": 15,
+                "fire": 5,
+                "water": 10,
+                "thunder": 20,
+                "ice": 15,
+                "dragon": 10,
+                "ko": 100
+            },
+            "Head (Gloss Black)": {
+                "cut": 20,
+                "impact": 25,
+                "shot": 15,
+                "fire": 5,
+                "water": 10,
+                "thunder": 20,
+                "ice": 15,
+                "dragon": 10,
+                "ko": 100
+            },
+            "Body": {
+                "cut": 35,
+                "impact": 30,
+                "shot": 35,
+                "fire": 0,
+                "water": 0,
+                "thunder": 10,
+                "ice": 5,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Back": {
+                "cut": 30,
+                "impact": 35,
+                "shot": 30,
+                "fire": 0,
+                "water": 0,
+                "thunder": 10,
+                "ice": 5,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Forearms": {
+                "cut": 50,
+                "impact": 45,
+                "shot": 40,
+                "fire": 5,
+                "water": 5,
+                "thunder": 15,
+                "ice": 0,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Forearms (White)": {
+                "cut": 70,
+                "impact": 60,
+                "shot": 55,
+                "fire": 5,
+                "water": 5,
+                "thunder": 15,
+                "ice": 0,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Forearms (Black)": {
+                "cut": 10,
+                "impact": 15,
+                "shot": 10,
+                "fire": 5,
+                "water": 5,
+                "thunder": 20,
+                "ice": 0,
+                "dragon": 10,
+                "ko": 0
+            },
+            "Forearms (Gloss Black)": {
+                "cut": 10,
+                "impact": 15,
+                "shot": 10,
+                "fire": 5,
+                "water": 5,
+                "thunder": 20,
+                "ice": 0,
+                "dragon": 10,
+                "ko": 0
+            },
+            "Hindlegs": {
+                "cut": 35,
+                "impact": 30,
+                "shot": 35,
+                "fire": 0,
+                "water": 0,
+                "thunder": 10,
+                "ice": 5,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Wings": {
+                "cut": 40,
+                "impact": 30,
+                "shot": 30,
+                "fire": 10,
+                "water": 5,
+                "thunder": 10,
+                "ice": 5,
+                "dragon": 10,
+                "ko": 0
+            },
+            "Wings (White)": {
+                "cut": 55,
+                "impact": 45,
+                "shot": 45,
+                "fire": 10,
+                "water": 5,
+                "thunder": 10,
+                "ice": 5,
+                "dragon": 15,
+                "ko": 0
+            },
+            "Wings (Black)": {
+                "cut": 28,
+                "impact": 25,
+                "shot": 25,
+                "fire": 10,
+                "water": 5,
+                "thunder": 15,
+                "ice": 5,
+                "dragon": 20,
+                "ko": 0
+            },
+            "Wings (Gloss Black)": {
+                "cut": 28,
+                "impact": 25,
+                "shot": 25,
+                "fire": 10,
+                "water": 5,
+                "thunder": 15,
+                "ice": 5,
+                "dragon": 20,
+                "ko": 0
+            },
+            "Tail": {
+                "cut": 60,
+                "impact": 45,
+                "shot": 25,
+                "fire": 10,
+                "water": 5,
+                "thunder": 10,
+                "ice": 5,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Tail Tip": {
+                "cut": 45,
+                "impact": 35,
+                "shot": 25,
+                "fire": 15,
+                "water": 5,
+                "thunder": 15,
+                "ice": 5,
+                "dragon": 10,
+                "ko": 0
+            },
+            "Tail Tip (White)": {
+                "cut": 65,
+                "impact": 55,
+                "shot": 40,
+                "fire": 15,
+                "water": 5,
+                "thunder": 15,
+                "ice": 5,
+                "dragon": 10,
+                "ko": 0
+            },
+            "Tail Tip (Black)": {
+                "cut": 25,
+                "impact": 20,
+                "shot": 10,
+                "fire": 15,
+                "water": 5,
+                "thunder": 20,
+                "ice": 5,
+                "dragon": 15,
+                "ko": 0
+            },
+            "Tail Tip (Gloss Black)": {
+                "cut": 25,
+                "impact": 20,
+                "shot": 10,
+                "fire": 15,
+                "water": 5,
+                "thunder": 20,
+                "ice": 5,
+                "dragon": 15,
+                "ko": 0
+            }
+        },
+        "break_and_extract": {
+            "Horns": {
+                "Flinch": 130,
+                "Wound": 280,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Head": {
+                "Flinch": 190,
+                "Wound": null,
+                "cut": null,
+                "extract": "red"
+            },
+            "Body": {
+                "Flinch": 450,
+                "Wound": null,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Left Foreleg": {
+                "Flinch": 280,
+                "Wound": null,
+                "cut": null,
+                "extract": "red"
+            },
+            "Right Foreleg": {
+                "Flinch": 280,
+                "Wound": null,
+                "cut": null,
+                "extract": "red"
+            },
+            "Left Hindleg": {
+                "Flinch": 350,
+                "Wound": null,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Right Hindleg": {
+                "Flinch": 350,
+                "Wound": null,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Left Wing": {
+                "Flinch": 180,
+                "Wound": null,
+                "cut": null,
+                "extract": "white"
+            },
+            "Right Wing": {
+                "Flinch": 180,
+                "Wound": null,
+                "cut": null,
+                "extract": "white"
+            },
+            "Tail": {
+                "Flinch": 220,
+                "Wound": null,
+                "cut": 450,
+                "extract": "green"
+            }
+        }
+    },
+    "Teostra": {
+        "hitzones": {
+            "Head": {
+                "cut": 55,
+                "impact": 60,
+                "shot": 50,
+                "fire": 0,
+                "water": 30,
+                "thunder": 10,
+                "ice": 25,
+                "dragon": 10,
+                "ko": 100
+            },
+            "Neck": {
+                "cut": 33,
+                "impact": 38,
+                "shot": 33,
+                "fire": 0,
+                "water": 20,
+                "thunder": 5,
+                "ice": 15,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Body": {
+                "cut": 20,
+                "impact": 20,
+                "shot": 20,
+                "fire": 0,
+                "water": 15,
+                "thunder": 0,
+                "ice": 10,
+                "dragon": 0,
+                "ko": 0
+            },
+            "Back": {
+                "cut": 20,
+                "impact": 20,
+                "shot": 20,
+                "fire": 0,
+                "water": 15,
+                "thunder": 0,
+                "ice": 10,
+                "dragon": 0,
+                "ko": 0
+            },
+            "Forelegs": {
+                "cut": 38,
+                "impact": 38,
+                "shot": 33,
+                "fire": 0,
+                "water": 20,
+                "thunder": 5,
+                "ice": 15,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Hindlegs": {
+                "cut": 30,
+                "impact": 25,
+                "shot": 20,
+                "fire": 0,
+                "water": 15,
+                "thunder": 5,
+                "ice": 10,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Wings": {
+                "cut": 40,
+                "impact": 35,
+                "shot": 30,
+                "fire": 0,
+                "water": 25,
+                "thunder": 10,
+                "ice": 20,
+                "dragon": 10,
+                "ko": 0
+            },
+            "Tail": {
+                "cut": 38,
+                "impact": 33,
+                "shot": 28,
+                "fire": 0,
+                "water": 20,
+                "thunder": 5,
+                "ice": 15,
+                "dragon": 5,
+                "ko": 0
+            }
+        },
+        "break_and_extract": {
+            "Head": {
+                "Flinch": 200,
+                "Wound": null,
+                "cut": null,
+                "extract": "red"
+            },
+            "Body": {
+                "Flinch": 400,
+                "Wound": null,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Forelegs": {
+                "Flinch": 280,
+                "Wound": null,
+                "cut": null,
+                "extract": "white"
+            },
+            "Hindlegs": {
+                "Flinch": 340,
+                "Wound": null,
+                "cut": null,
+                "extract": "white"
+            },
+            "Wings": {
+                "Flinch": 280,
+                "Wound": 280,
+                "cut": null,
+                "extract": "white"
+            },
+            "Tail": {
+                "Flinch": 330,
+                "Wound": null,
+                "cut": 330,
+                "extract": "orange"
+            }
+        }
+    },
+    "Kushala Daora": {
+        "hitzones": {
+            "Head": {
+                "cut": 55,
+                "impact": 50,
+                "shot": 45,
+                "fire": 10,
+                "water": 5,
+                "thunder": 20,
+                "ice": 0,
+                "dragon": 10,
+                "ko": 100
+            },
+            "Neck": {
+                "cut": 40,
+                "impact": 35,
+                "shot": 25,
+                "fire": 10,
+                "water": 5,
+                "thunder": 15,
+                "ice": 0,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Body": {
+                "cut": 35,
+                "impact": 50,
+                "shot": 25,
+                "fire": 10,
+                "water": 5,
+                "thunder": 15,
+                "ice": 0,
+                "dragon": 10,
+                "ko": 0
+            },
+            "Back": {
+                "cut": 20,
+                "impact": 25,
+                "shot": 30,
+                "fire": 10,
+                "water": 5,
+                "thunder": 15,
+                "ice": 0,
+                "dragon": 10,
+                "ko": 0
+            },
+            "Forelegs": {
+                "cut": 45,
+                "impact": 50,
+                "shot": 30,
+                "fire": 10,
+                "water": 5,
+                "thunder": 20,
+                "ice": 0,
+                "dragon": 10,
+                "ko": 0
+            },
+            "Hindlegs": {
+                "cut": 30,
+                "impact": 30,
+                "shot": 25,
+                "fire": 10,
+                "water": 5,
+                "thunder": 15,
+                "ice": 0,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Wings": {
+                "cut": 20,
+                "impact": 15,
+                "shot": 20,
+                "fire": 10,
+                "water": 5,
+                "thunder": 20,
+                "ice": 0,
+                "dragon": 15,
+                "ko": 0
+            },
+            "Tail": {
+                "cut": 35,
+                "impact": 30,
+                "shot": 55,
+                "fire": 10,
+                "water": 5,
+                "thunder": 20,
+                "ice": 0,
+                "dragon": 15,
+                "ko": 0
+            }
+        },
+        "break_and_extract": {
+            "Head": {
+                "Flinch": 300,
+                "Wound": null,
+                "cut": null,
+                "extract": "red"
+            },
+            "Body": {
+                "Flinch": 100,
+                "Wound": null,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Tail": {
+                "Flinch": 140,
+                "Wound": null,
+                "cut": 400,
+                "extract": "green"
+            },
+            "Left Legs": {
+                "Flinch": 120,
+                "Wound": null,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Right Legs": {
+                "Flinch": 120,
+                "Wound": null,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Wings": {
+                "Flinch": 100,
+                "Wound": 200,
+                "cut": null,
+                "extract": "white"
+            }
+        }
+    },
+    "Vaal Hazak": {
+        "hitzones": {
+            "Head": {
+                "cut": 50,
+                "impact": 40,
+                "shot": 50,
+                "fire": 25,
+                "water": 5,
+                "thunder": 10,
+                "ice": 15,
+                "dragon": 0,
+                "ko": 100
+            },
+            "Head (Wounded)": {
+                "cut": 70,
+                "impact": 80,
+                "shot": 60,
+                "fire": 25,
+                "water": 5,
+                "thunder": 10,
+                "ice": 15,
+                "dragon": 25,
+                "ko": 100
+            },
+            "Neck": {
+                "cut": 70,
+                "impact": 80,
+                "shot": 60,
+                "fire": 25,
+                "water": 5,
+                "thunder": 10,
+                "ice": 15,
+                "dragon": 25,
+                "ko": 0
+            },
+            "Chest": {
+                "cut": 50,
+                "impact": 45,
+                "shot": 45,
+                "fire": 15,
+                "water": 5,
+                "thunder": 10,
+                "ice": 10,
+                "dragon": 15,
+                "ko": 0
+            },
+            "Stomach": {
+                "cut": 50,
+                "impact": 40,
+                "shot": 45,
+                "fire": 2,
+                "water": 5,
+                "thunder": 10,
+                "ice": 15,
+                "dragon": 0,
+                "ko": 0
+            },
+            "Stomach (Wounded)": {
+                "cut": 60,
+                "impact": 70,
+                "shot": 40,
+                "fire": 25,
+                "water": 5,
+                "thunder": 10,
+                "ice": 15,
+                "dragon": 25,
+                "ko": 0
+            },
+            "Back": {
+                "cut": 45,
+                "impact": 35,
+                "shot": 35,
+                "fire": 20,
+                "water": 5,
+                "thunder": 10,
+                "ice": 15,
+                "dragon": 0,
+                "ko": 0
+            },
+            "Back (Wounded)": {
+                "cut": 55,
+                "impact": 65,
+                "shot": 40,
+                "fire": 25,
+                "water": 5,
+                "thunder": 10,
+                "ice": 15,
+                "dragon": 25,
+                "ko": 0
+            },
+            "Hindlegs": {
+                "cut": 25,
+                "impact": 25,
+                "shot": 20,
+                "fire": 5,
+                "water": 0,
+                "thunder": 0,
+                "ice": 0,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Forelegs": {
+                "cut": 45,
+                "impact": 40,
+                "shot": 35,
+                "fire": 20,
+                "water": 5,
+                "thunder": 5,
+                "ice": 10,
+                "dragon": 5,
+                "ko": 0
+            },
+            "Forelegs (Wounded)": {
+                "cut": 55,
+                "impact": 50,
+                "shot": 45,
+                "fire": 20,
+                "water": 5,
+                "thunder": 5,
+                "ice": 10,
+                "dragon": 20,
+                "ko": 0
+            },
+            "Wings": {
+                "cut": 24,
+                "impact": 23,
+                "shot": 30,
+                "fire": 15,
+                "water": 5,
+                "thunder": 10,
+                "ice": 10,
+                "dragon": 15,
+                "ko": 0
+            },
+            "Tail Tip": {
+                "cut": 60,
+                "impact": 30,
+                "shot": 50,
+                "fire": 20,
+                "water": 5,
+                "thunder": 10,
+                "ice": 15,
+                "dragon": 0,
+                "ko": 0
+            }
+        },
+        "break_and_extract": {
+            "Head": {
+                "Flinch": 300,
+                "Wound": 900,
+                "cut": null,
+                "extract": "red"
+            },
+            "Chest": {
+                "Flinch": 150,
+                "Wound": null,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Body": {
+                "Flinch": 600,
+                "Wound": 600,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Tail": {
+                "Flinch": 200,
+                "Wound": null,
+                "cut": 400,
+                "extract": "green"
+            },
+            "Left Foreleg": {
+                "Flinch": 130,
+                "Wound": 130,
+                "cut": null,
+                "extract": "white"
+            },
+            "Right Foreleg": {
+                "Flinch": 130,
+                "Wound": 130,
+                "cut": null,
+                "extract": "white"
+            },
+            "Left Hindleg": {
+                "Flinch": 350,
+                "Wound": null,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Right Hindleg": {
+                "Flinch": 350,
+                "Wound": null,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Wings": {
+                "Flinch": 150,
+                "Wound": null,
+                "cut": null,
+                "extract": "white"
+            }
+        }
+    },
+    "Xeno'jiiva": {
+        "hitzones": {
+            "Head": {
+                "cut": 70,
+                "impact": 70,
+                "shot": 55,
+                "fire": 20,
+                "water": 10,
+                "thunder": 10,
+                "ice": 10,
+                "dragon": 20,
+                "ko": 100
+            },
+            "Head (Wounded)": {
+                "cut": 80,
+                "impact": 80,
+                "shot": 60,
+                "fire": 20,
+                "water": 10,
+                "thunder": 10,
+                "ice": 10,
+                "dragon": 20,
+                "ko": 100
+            },
+            "Head (Critical State)": {
+                "cut": 80,
+                "impact": 100,
+                "shot": 60,
+                "fire": 15,
+                "water": 30,
+                "thunder": 30,
+                "ice": 30,
+                "dragon": 15,
+                "ko": 100
+            },
+            "Neck": {
+                "cut": 30,
+                "impact": 30,
+                "shot": 25,
+                "fire": 15,
+                "water": 10,
+                "thunder": 10,
+                "ice": 10,
+                "dragon": 15,
+                "ko": 0
+            },
+            "Neck (Critical State)": {
+                "cut": 50,
+                "impact": 50,
+                "shot": 30,
+                "fire": 15,
+                "water": 30,
+                "thunder": 30,
+                "ice": 30,
+                "dragon": 15,
+                "ko": 0
+            },
+            "Body": {
+                "cut": 25,
+                "impact": 25,
+                "shot": 25,
+                "fire": 15,
+                "water": 10,
+                "thunder": 10,
+                "ice": 10,
+                "dragon": 15,
+                "ko": 0
+            },
+            "Body (Critical State)": {
+                "cut": 60,
+                "impact": 60,
+                "shot": 40,
+                "fire": 15,
+                "water": 30,
+                "thunder": 30,
+                "ice": 30,
+                "dragon": 15,
+                "ko": 0
+            },
+            "Chest": {
+                "cut": 60,
+                "impact": 60,
+                "shot": 30,
+                "fire": 20,
+                "water": 10,
+                "thunder": 10,
+                "ice": 10,
+                "dragon": 20,
+                "ko": 0
+            },
+            "Chest (Critical State)": {
+                "cut": 100,
+                "impact": 80,
+                "shot": 70,
+                "fire": 15,
+                "water": 30,
+                "thunder": 30,
+                "ice": 30,
+                "dragon": 15,
+                "ko": 0
+            },
+            "Forelegs": {
+                "cut": 50,
+                "impact": 50,
+                "shot": 45,
+                "fire": 20,
+                "water": 10,
+                "thunder": 10,
+                "ice": 10,
+                "dragon": 20,
+                "ko": 0
+            },
+            "Forelegs (Wounded)": {
+                "cut": 60,
+                "impact": 60,
+                "shot": 50,
+                "fire": 20,
+                "water": 10,
+                "thunder": 10,
+                "ice": 10,
+                "dragon": 20,
+                "ko": 0
+            },
+            "Forelegs (Critical State)": {
+                "cut": 70,
+                "impact": 90,
+                "shot": 60,
+                "fire": 15,
+                "water": 30,
+                "thunder": 30,
+                "ice": 30,
+                "dragon": 15,
+                "ko": 0
+            },
+            "Hindlegs": {
+                "cut": 22,
+                "impact": 22,
+                "shot": 15,
+                "fire": 10,
+                "water": 5,
+                "thunder": 5,
+                "ice": 5,
+                "dragon": 10,
+                "ko": 0
+            },
+            "Hindlegs (Critical State)": {
+                "cut": 50,
+                "impact": 50,
+                "shot": 40,
+                "fire": 10,
+                "water": 20,
+                "thunder": 20,
+                "ice": 20,
+                "dragon": 10,
+                "ko": 0
+            },
+            "Wings": {
+                "cut": 50,
+                "impact": 50,
+                "shot": 30,
+                "fire": 15,
+                "water": 10,
+                "thunder": 10,
+                "ice": 10,
+                "dragon": 15,
+                "ko": 0
+            },
+            "Wings (Wounded)": {
+                "cut": 60,
+                "impact": 60,
+                "shot": 40,
+                "fire": 15,
+                "water": 10,
+                "thunder": 10,
+                "ice": 10,
+                "dragon": 15,
+                "ko": 0
+            },
+            "Wings (Critical State)": {
+                "cut": 100,
+                "impact": 80,
+                "shot": 50,
+                "fire": 15,
+                "water": 30,
+                "thunder": 30,
+                "ice": 30,
+                "dragon": 15,
+                "ko": 0
+            },
+            "Tail": {
+                "cut": 25,
+                "impact": 25,
+                "shot": 15,
+                "fire": 10,
+                "water": 5,
+                "thunder": 5,
+                "ice": 5,
+                "dragon": 10,
+                "ko": 0
+            },
+            "Tail (Critical State)": {
+                "cut": 50,
+                "impact": 50,
+                "shot": 30,
+                "fire": 10,
+                "water": 20,
+                "thunder": 20,
+                "ice": 20,
+                "dragon": 10,
+                "ko": 0
+            },
+            "Tail Tip": {
+                "cut": 70,
+                "impact": 70,
+                "shot": 45,
+                "fire": 20,
+                "water": 10,
+                "thunder": 10,
+                "ice": 10,
+                "dragon": 20,
+                "ko": 0
+            },
+            "Tail Tip (Critical State)": {
+                "cut": 90,
+                "impact": 90,
+                "shot": 60,
+                "fire": 15,
+                "water": 30,
+                "thunder": 30,
+                "ice": 30,
+                "dragon": 15,
+                "ko": 0
+            }
+        },
+        "break_and_extract": {
+            "Head": {
+                "Flinch": 400,
+                "Wound": 800,
+                "cut": null,
+                "extract": "red"
+            },
+            "Neck": {
+                "Flinch": 400,
+                "Wound": null,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Body": {
+                "Flinch": 800,
+                "Wound": null,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Chest": {
+                "Flinch": 150,
+                "Wound": null,
+                "cut": null,
+                "extract": "red"
+            },
+            "Left Foreleg": {
+                "Flinch": 300,
+                "Wound": 600,
+                "cut": null,
+                "extract": "white"
+            },
+            "Right Foreleg": {
+                "Flinch": 300,
+                "Wound": 600,
+                "cut": null,
+                "extract": "white"
+            },
+            "Left Hindleg": {
+                "Flinch": 150,
+                "Wound": null,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Right Hindleg": {
+                "Flinch": 150,
+                "Wound": null,
+                "cut": null,
+                "extract": "orange"
+            },
+            "Wings": {
+                "Flinch": 300,
+                "Wound": 600,
+                "cut": null,
+                "extract": "white"
+            },
+            "Tail": {
+                "Flinch": 350,
+                "Wound": null,
+                "cut": 1050,
+                "extract": "green"
+            }
+        }
+    },
+    "Gajalaka": {
+        "hitzones": {
+            "Head": {
+                "cut": 80,
+                "impact": 90,
+                "shot": 90,
+                "fire": 35,
+                "water": 30,
+                "thunder": 50,
+                "ice": 40,
+                "dragon": 10,
+                "ko": 100
+            },
+            "Body": {
+                "cut": 45,
+                "impact": 65,
+                "shot": 70,
+                "fire": 35,
+                "water": 30,
+                "thunder": 50,
+                "ice": 40,
+                "dragon": 10,
+                "ko": 0
+            }
+        },
+        "break_and_extract": {}
+    }
+}
