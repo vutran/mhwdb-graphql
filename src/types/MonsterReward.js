@@ -4,10 +4,40 @@ const MonsterRewardLevel = require('./MonsterRewardLevel');
 module.exports = new GraphQLObjectType({
   name: 'MonsterReward',
   fields: {
-    body: {
+    bodyCarve: {
       type: MonsterRewardLevel,
       resolve(parent) {
         return parent['Body Carve'];
+      },
+    },
+    questReward: {
+      type: MonsterRewardLevel,
+      resolve(parent) {
+        return parent['Quest Reward'];
+      },
+    },
+    hornCarve: {
+      type: MonsterRewardLevel,
+      resolve(parent) {
+        return parent['Horn Carve'];
+      },
+    },
+    tailCarve: {
+      type: MonsterRewardLevel,
+      resolve(parent) {
+        return parent['Tail Carve'];
+      },
+    },
+    headShellCarve: {
+      type: MonsterRewardLevel,
+      resolve(parent) {
+        return parent['Head Shell Carve'];
+      },
+    },
+    shinyDrop: {
+      type: MonsterRewardLevel,
+      resolve(parent) {
+        return parent['Shiny Drop'];
       },
     },
   },

@@ -19,12 +19,12 @@ module.exports = new GraphQLObjectType({
     // associated data
     reward: {
       type: MonsterReward,
-      resolve(parent) {
+      resolve(parent, args) {
         return fetchData('monsters/monster_rewards.json').then(data => {
           if (data[parent.name.en] && data[parent.name.en].rewards) {
             return data[parent.name.en].rewards;
           }
-          return {};
+          return null;
         });
       },
     },
