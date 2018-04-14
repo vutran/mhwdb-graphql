@@ -12,6 +12,8 @@ app.use(
   })
 );
 
-app.listen(4000, () => {
-  console.log('Listening on port 4000');
+const PORT = process.env.port || 4000;
+
+app.listen(PORT, () => {
+  console.log(`Listening on port ${PORT}`);
 });

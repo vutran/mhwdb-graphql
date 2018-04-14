@@ -6,13 +6,15 @@
   "scripts": {
     "precommit": "lint-staged",
     "fmt": "prettier --write \"*.{js,json,css,md}\"",
-    "start": "node ./src/server.js"
+    "start": "node ./src/server.js",
+    "deploy": "now && now alias"
   },
   "author": "Vu Tran <vu@vu-tran.com>",
   "license": "MIT",
   "devDependencies": {
     "graphql": "^0.13.2",
     "jest": "^22.4.3",
+    "now": "^11.1.4",
     "prettier": "^1.12.0"
   },
   "dependencies": {
@@ -24,5 +26,8 @@
       "prettier --write",
       "git add"
     ]
+  },
+  "now": {
+    "alias": "mhwdb"
   }
 }
