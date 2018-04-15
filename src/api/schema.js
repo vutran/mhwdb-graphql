@@ -23,7 +23,7 @@ const Query = new GraphQLObjectType({
       },
       resolve(parent, args) {
         return fetchData('monsters/monster_base.json').then(data =>
-          data.filter(monster => monster.name.en === args.monster)
+          data.filter(monster => monster.name.en.toLowerCase() === args.monster.toLowerCase())
         );
       },
     },
