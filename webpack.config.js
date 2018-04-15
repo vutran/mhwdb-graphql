@@ -17,6 +17,7 @@ module.exports = {
         exclude: /node_modules/,
         query: {
           presets: ['es2015', 'react'],
+          plugins: ['transform-class-properties'],
         },
       },
     ],
