@@ -17,7 +17,7 @@ const Query = new GraphQLObjectType({
       args: {
         monster: {
           type: GraphQLString,
-          defalutValue: '',
+          defaultValue: '',
           description: 'Filter by monster name',
         },
       },

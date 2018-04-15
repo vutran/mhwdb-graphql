@@ -79,38 +79,42 @@ export default class App extends React.PureComponent {
                     <li key={monster.name.en}>
                       <h2>{monster.name.en}</h2>
                       <div>{monster.description.en}</div>
-                      <h3>Rewards</h3>
-                      <ol>
-                        {Object.keys(monster.reward).map((part, idx) => {
-                          const reward = monster.reward[part];
-                          return (
-                            part &&
-                            reward && (
-                              <li key={idx}>
-                                <h3>{part}</h3>
-                                {reward.lr && (
-                                  <ol>
-                                    {reward.lr.map((r, k) => (
-                                      <li key={k}>
-                                        LR: {r.item_en} ({r.percentage})
-                                      </li>
-                                    ))}
-                                  </ol>
-                                )}
-                                {reward.hr && (
-                                  <ol>
-                                    {reward.hr.map((r, k) => (
-                                      <li key={k}>
-                                        HR: {r.item_en} ({r.percentage})
-                                      </li>
-                                    ))}
-                                  </ol>
-                                )}
-                              </li>
-                            )
-                          );
-                        })}
-                      </ol>
+                      {monster.reward && (
+                        <div>
+                          <h3>Rewards</h3>
+                          <ol>
+                            {Object.keys(monster.reward).map((part, idx) => {
+                              const reward = monster.reward[part];
+                              return (
+                                part &&
+                                reward && (
+                                  <li key={idx}>
+                                    <h3>{part}</h3>
+                                    {reward.lr && (
+                                      <ol>
+                                        {reward.lr.map((r, k) => (
+                                          <li key={k}>
+                                            LR: {r.item_en} ({r.percentage})
+                                          </li>
+                                        ))}
+                                      </ol>
+                                    )}
+                                    {reward.hr && (
+                                      <ol>
+                                        {reward.hr.map((r, k) => (
+                                          <li key={k}>
+                                            HR: {r.item_en} ({r.percentage})
+                                          </li>
+                                        ))}
+                                      </ol>
+                                    )}
+                                  </li>
+                                )
+                              );
+                            })}
+                          </ol>
+                        </div>
+                      )}
                     </li>
                   ))}
               </ol>
