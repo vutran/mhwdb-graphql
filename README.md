@@ -2,6 +2,10 @@
 
 > A GraphQL API for Monster Hunter World
 
+## Demo
+
+[https://mhwdb.now.sh/graphql](https://mhwdb.now.sh/graphql)
+
 ## License
 
-MIT © [https://github.com/vutran/](Vu Tran)
+MIT © [Vu Tran](https://github.com/vutran/)
